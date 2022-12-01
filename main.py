@@ -7,32 +7,26 @@ import numpy as np
 import torch
 import torch.multiprocessing as mp
 from data import *
-import model.client1_s as clien1
-import model.client2_s as clien2
+import model.client1 as clien1
+import model.client2 as clien2
 def parse_options(parser):
     parser = argparse.ArgumentParser()
     parser.add_argument("--max_len", type=int, default=256)
     parser.add_argument("--lr", type=float, default=3e-5)
     parser.add_argument("--finetuning", dest="finetuning", action="store_true")
     parser.add_argument("--save_model", dest="save_model", action="store_true")
-    parser.add_argument("--lm", type=str, default='bert-base-uncased')
-    parser.add_argument("--fp16", dest="fp16", action="store_true")
     parser.add_argument("--alpha_aug", type=float, default=0.8)
     parser.add_argument("--topk", type=int, default=24)
     parser.add_argument("--summarize", dest="summarize", action="store_true")
     parser.add_argument("--size", type=int, default=None)
     parser.add_argument('--device', type=str, default='cuda:0')
-    parser.add_argument('--model', type=str, default='LaBSE')
-    parser.add_argument('--local_ep', type=int, default=1)
     parser.add_argument('--seed', type=int, default=37)
     parser.add_argument('--rounds', type=int, default=30)
     parser.add_argument('--batch_size', type=int, default=32)
-    parser.add_argument('--queue_length', type=int, default=16)
-    parser.add_argument('--dp_mechanism', type=str, default='Laplace') #'no_dp'  'Laplace'  'Gaussian'
+    parser.add_argument('--dp_mechanism', type=str, default='Laplace')
     parser.add_argument('--dp_clip', type=int, default = 5)
-    parser.add_argument('--dp_epsilon', type = float, default = 0.2) #run 0.001
+    parser.add_argument('--dp_epsilon', type = float, default = 0.2)
     # parser.add_argument('-add_noise', type=int, default=0)
-    parser.add_argument('--key_position', type=str, default='3')  # multi att '0 1 2...'
     parser.add_argument('-port', type=int, default=8800)
     parser.add_argument('--t', type=float, default=0.08)
     parser.add_argument('--momentum', type=float, default=0.9999)
