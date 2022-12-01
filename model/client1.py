@@ -62,27 +62,6 @@ def train(args, loader1, eval_loader1, set1_id2t, set2_id2t, set_size=0, start=0
     conn, addr = s.accept()  # acc connect
     print('[+] Connected with', addr)
 
-    ######################################################################
-    # ids_1, ids_2, vector_1, vector_2 = list(), list(), list(), list()
-    # with torch.no_grad():
-    #     model.eval()
-    #     for sample_id_1, (tuple_token_1, tuple_id_1) in enumerate(eval_loader1):
-    #         tuple_vector_1 = model(tuple_token_1)
-    #         tuple_vector_1 = tuple_vector_1.squeeze().detach().cpu().numpy()
-    #         vector_1.append(tuple_vector_1)
-    #         tuple_id_1 = tuple_id_1.squeeze().tolist()
-    #         if isinstance(tuple_id_1, int):
-    #             tuple_id_1 = [tuple_id_1]
-    #         ids_1.extend(tuple_id_1)
-    #
-    # v1 = np.vstack(vector_1).astype(np.float32)
-    # v1 = preprocessing.normalize(v1)
-    #
-    # np.savetxt("./WA_BERT_Walmart.txt", v1, fmt='%f', delimiter=',')
-    #################################################################################
-
-    # hit1_valid_12, hit10_valid_12,hit1_valid_21, hit10_valid_21 = evaluate("-1" + ": batch " + "-1")
-
     ids_1, vector_1 = list(), list()
     with torch.no_grad():
         model.eval()
