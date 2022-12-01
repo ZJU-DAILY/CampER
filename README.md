@@ -22,34 +22,32 @@ We conduct experiments on eight widely-used datasets, including DBLP-ACM, Walmar
 To conduct the CampER for effective and privacy-aware deep entity resolution on DBLP-ACM:
 
 ```
-python fed_main.py --task "/Structure/DBLP-ACM"
+python main.py --task "/Structure/DBLP-ACM"
 ```
 
 The meaning of the flags:
 
 --task: the datasets conducted on. e.g."/Structure/DBLP-ACM"
 
---path1: the path of dedupliated table ownered by the organization A. e.g. "./dataset/Structure/DBLP-ACM/train1-dedup.txt"
+--path1: the path of dedupliated table of the organization A. e.g. "./dataset/Structure/DBLP-ACM/train1-dedup.txt"
 
---path2: the path of dedupliated table ownered by the organization B. e.g. "./dataset/Structure/DBLP-ACM/train2-dedup.txt"
+--path2: the path of dedupliated table of the organization B. e.g. "./dataset/Structure/DBLP-ACM/train2-dedup.txt"
 
 --dup_path1: the path of duplicate detection result of the organization A. e.g. "./dataset/Structure/DBLP-ACM/train1-dup-id.txt"
 
 --dup_path2: the path of duplicate detection result of the organization B. e.g. "./dataset/Structure/DBLP-ACM/train2-dup-id.txt"
 
---train_wdup _path1: the path of orinial table ownered by the organization A. e.g. "./dataset/Structure/DBLP-ACM/train1.txt"
+--train_wdup _path1: the path of original table of the organization A. e.g. "./dataset/Structure/DBLP-ACM/train1.txt"
 
---train_wdup _path2: the path of orinial table ownered by the organization B. e.g. "./dataset/Structure/DBLP-ACM/train2.txt"
+--train_wdup _path2: the path of original table of the organization B. e.g. "./dataset/Structure/DBLP-ACM/train2.txt"
 
---match_path: the path of ground truth after deduplication. e.g. "./dataset/Structure/DBLP-ACM/match-dedup.txt"
+--match_path: the path of dedupilated matched set. e.g. "./dataset/Structure/DBLP-ACM/match-dedup.txt"
 
---rounds: total federated training round. e.g. 30
+--rounds: total collaborative fine-tuning round. e.g. 30
 
---dp_epsilon: the privacy budget of each owner to perform a single-round federated training. e.g. 0.2
+--dp_epsilon: the privacy budget of each owner to perform a single-round collaborative training. e.g. 0.2
 
 
 ## Acknowledgementt
 
-We use the code of [Ditto](https://github.com/megagonlabs/ditto).
-
-The original datasets are from [DeepMather](https://github.com/anhaidgroup/deepmatcher)
+The original datasets are from [DeepMather](https://github.com/anhaidgroup/deepmatcher).
