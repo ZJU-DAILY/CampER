@@ -3,7 +3,7 @@ import pickle
 import struct
 
 from torch.cuda.amp import GradScaler
-from model.base_model_1 import *
+from model.base_model import *
 
 from utils import *
 import socket
