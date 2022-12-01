@@ -1,0 +1,1288 @@
+COL title VAL clickart 950 000 premier image pack ( dvd-rom ) COL manufacturer VAL broderbund COL price VAL 	0
+COL title VAL noah 's ark activity center ( jewel case ages 3-8 ) COL manufacturer VAL victory multimedia COL price VAL 	2
+COL title VAL peachtree by sage premium accounting for nonprofits 2007 COL manufacturer VAL sage software COL price VAL 599.99	3
+COL title VAL singing coach unlimited COL manufacturer VAL carry-a-tune technologies COL price VAL 99.99	4
+COL title VAL emc retrospect 7.5 disk to disk windows COL manufacturer VAL dantz COL price VAL 	5
+COL title VAL adobe after effects professional 6.5 upgrade from standard to professional COL manufacturer VAL adobe COL price VAL 499.99	6
+COL title VAL acad upgrade dragon naturallyspeaking pro solution 9.0 ( a289a-fd7-9 .0 ) COL manufacturer VAL nuance academic COL price VAL 399.54	7
+COL title VAL mia 's math adventure : just in time COL manufacturer VAL kutoka COL price VAL 19.99	8
+COL title VAL disney 's 1st & 2nd grade bundle ( pixar 1st grade secret keys and aladdin reading quest ) COL manufacturer VAL disney COL price VAL 14.99	9
+COL title VAL paper art : gift wrapping COL manufacturer VAL arc-media-inc . COL price VAL 	10
+COL title VAL microsoft sql server standard edition 2005 64 bit cd/dvd 5 client COL manufacturer VAL microsoft COL price VAL 1849.0	12
+COL title VAL spy sweeper spanish COL manufacturer VAL webroot software COL price VAL 29.95	13
+COL title VAL omnioutliner professional 3.0 COL manufacturer VAL csdc COL price VAL 69.95	15
+COL title VAL compaq comp . secure path v3.0c-netware wrkgrp 50 lic 231327-b22 ) COL manufacturer VAL compaq computer COL price VAL 	16
+COL title VAL upg sgms 1000 incremental node COL manufacturer VAL sonic-systems-inc . COL price VAL 	17
+COL title VAL the human body COL manufacturer VAL topics entertainment COL price VAL 19.99	18
+COL title VAL school zone pencil-pal software big phonics ( cd-rom & book ) COL manufacturer VAL school-zone-interactive COL price VAL 	19
+COL title VAL millie 's math house ages 3-7 ( win/mac ) COL manufacturer VAL ibm - ( aap-misc-parts ) COL price VAL 	20
+COL title VAL world book encyclopedia 2006 COL manufacturer VAL topics entertainment COL price VAL 19.99	21
+COL title VAL musicalis guitar workshop COL manufacturer VAL global-software-publishing COL price VAL 9.99	22
+COL title VAL the printshop 20 professional publisher COL manufacturer VAL broderbund COL price VAL 69.99	23
+COL title VAL data protection suite COL manufacturer VAL stomp inc COL price VAL 69.99	24
+COL title VAL kids power fun for girls COL manufacturer VAL topics entertainment COL price VAL 19.99	25
+COL title VAL adobe premiere pro cs3 upgrade COL manufacturer VAL adobe COL price VAL 299.0	26
+COL title VAL i copy dvds 2 professional edition COL manufacturer VAL me-too-software COL price VAL 69.99	27
+COL title VAL gen-x media made easy vol . 3 COL manufacturer VAL gen-x COL price VAL 49.95	28
+COL title VAL family tree maker 11.2 collector 's edition COL manufacturer VAL encore COL price VAL 109.95	29
+COL title VAL adobe fireworks cs3 [ mac ] COL manufacturer VAL adobe COL price VAL 299.0	30
+COL title VAL dinosaurs COL manufacturer VAL topics entertainment COL price VAL 19.99	31
+COL title VAL instant home design 3.0 [ lb ] COL manufacturer VAL topics entertainment COL price VAL 19.99	32
+COL title VAL x-oom internet movies 2 COL manufacturer VAL x-oom COL price VAL 	33
+COL title VAL form workshop 1200 COL manufacturer VAL valusoft COL price VAL 29.99	34
+COL title VAL the print shop pro publisher 22 deluxe [ dvd ] COL manufacturer VAL encore COL price VAL 99.99	35
+COL title VAL stomp inc recover lost data 2005 COL manufacturer VAL stomp inc COL price VAL 39.95	36
+COL title VAL my first bible stories COL manufacturer VAL dorling-kindersley-multimedia - ( dk ) COL price VAL 29.95	37
+COL title VAL the big mix ( mac ) COL manufacturer VAL aladdin COL price VAL 59.99	38
+COL title VAL x-oom movie clone 3 gold COL manufacturer VAL x-oom COL price VAL 	39
+COL title VAL the print shop 22 deluxe COL manufacturer VAL encore COL price VAL 49.99	40
+COL title VAL imsi turbocad designer v. 11 COL manufacturer VAL imsi COL price VAL 39.99	41
+COL title VAL lavasoft ad-aware plus edition COL manufacturer VAL tri synergy COL price VAL 29.99	42
+COL title VAL clip art and more 250 000 ( jewel case ) COL manufacturer VAL imsi design COL price VAL 	43
+COL title VAL instant immersion language lab deluxe edition COL manufacturer VAL topics entertainment COL price VAL 	44
+COL title VAL elementary school success deluxe 2006 COL manufacturer VAL topics entertainment COL price VAL 49.99	45
+COL title VAL national geographic presents : redshift planetarium COL manufacturer VAL topics entertainment COL price VAL 29.99	46
+COL title VAL math success deluxe 2006 COL manufacturer VAL topics entertainment COL price VAL 49.99	47
+COL title VAL national geographic presents : forces of nature COL manufacturer VAL topics entertainment COL price VAL 29.99	48
+COL title VAL reference success deluxe 2006 COL manufacturer VAL topics entertainment COL price VAL 49.95	49
+COL title VAL clifford the big red dog thinking adventures COL manufacturer VAL scholastic COL price VAL 9.99	50
+COL title VAL mastercook deluxe low carb COL manufacturer VAL valusoft COL price VAL 14.99	51
+COL title VAL instant home design ( jewel case ) COL manufacturer VAL topics entertainment COL price VAL 9.99	52
+COL title VAL boomerang webshop platinum COL manufacturer VAL boomerang COL price VAL 	53
+COL title VAL allume boost xp for windows COL manufacturer VAL smith-micro-software COL price VAL 29.99	54
+COL title VAL jumpstart learning games phonics ( pc & mac ) COL manufacturer VAL knowledge adventure COL price VAL 9.99	55
+COL title VAL kids power fun for little ones COL manufacturer VAL topics entertainment COL price VAL 19.99	56
+COL title VAL museums of the world COL manufacturer VAL topics entertainment COL price VAL 19.99	57
+COL title VAL matchbox cross-town heroes COL manufacturer VAL thq COL price VAL 19.99	58
+COL title VAL studyworks ! teaching pro : middle school math & science ( win/mac ) COL manufacturer VAL global-software-publishing COL price VAL 29.99	59
+COL title VAL trudy 's time and place house ages 3-6 COL manufacturer VAL ibm COL price VAL 	60
+COL title VAL personal image manager COL manufacturer VAL smith-micro-software COL price VAL 29.99	61
+COL title VAL stomp inc drive washer COL manufacturer VAL stomp inc COL price VAL 	62
+COL title VAL movies on psp COL manufacturer VAL x-oom COL price VAL 	63
+COL title VAL kids power fun for kids COL manufacturer VAL topics entertainment COL price VAL 19.99	64
+COL title VAL custom landdesigner 3d design 7.0 COL manufacturer VAL sierra on-line COL price VAL 	65
+COL title VAL freddi fish 2 : the haunted schoolhouse COL manufacturer VAL humongous entertainment COL price VAL 29.95	66
+COL title VAL netgear vpn01l vpn client software COL manufacturer VAL netgear COL price VAL 89.99	67
+COL title VAL mom standard ops mgmt lic 2005 english mlp 5 oml COL manufacturer VAL microsoft COL price VAL 	68
+COL title VAL eastwest bsendorfer 290 grand piano virtual instrument COL manufacturer VAL eastwest COL price VAL 199.95	69
+COL title VAL diskeepeer 2007 admin upgrade sngl lic pack COL manufacturer VAL diskeeper corporation COL price VAL 200.0	70
+COL title VAL monarch v9 .0 1u . COL manufacturer VAL datawatch COL price VAL 699.0	71
+COL title VAL midway arcade treasures ( jewel case ) COL manufacturer VAL encore software COL price VAL 9.99	72
+COL title VAL snap ! 10 000 drink recipies ( jewel case ) COL manufacturer VAL topics entertainment COL price VAL 4.99	73
+COL title VAL mac os x server v10 .4.7 10-client COL manufacturer VAL apple COL price VAL 499.0	74
+COL title VAL epson storyteller photo book creator 8 x 10 ( 20 pages ) COL manufacturer VAL epson COL price VAL 29.99	75
+COL title VAL adobe acrobat capture 3.0 22101258 ) COL manufacturer VAL adobe COL price VAL 299.99	76
+COL title VAL age of mythology ( mac ) COL manufacturer VAL macsoft COL price VAL 19.99	77
+COL title VAL emedia intermediate guitar method os x COL manufacturer VAL emedia COL price VAL 59.99	78
+COL title VAL ca internet security suite 2007 3 user COL manufacturer VAL computer associates COL price VAL 69.95	79
+COL title VAL kaplan sat/act/psat express COL manufacturer VAL topics entertainment COL price VAL 9.99	80
+COL title VAL passwords plus 1.0 COL manufacturer VAL dataviz COL price VAL 29.99	81
+COL title VAL emedia essential bass guitar COL manufacturer VAL emedia COL price VAL 19.95	82
+COL title VAL scratches : directors cut COL manufacturer VAL got game COL price VAL 19.99	83
+COL title VAL x3 : reunion virtual programming ltd. COL manufacturer VAL csdc COL price VAL 39.95	84
+COL title VAL write brothers dramatica pro win/mac COL manufacturer VAL write brothers COL price VAL 269.99	85
+COL title VAL emedia bass method win/mac COL manufacturer VAL emedia COL price VAL 59.99	86
+COL title VAL microsoft licenses project svr sa govt ( h2200301 ) COL manufacturer VAL microsoft licenses COL price VAL 3601.4	87
+COL title VAL total training for adobe creative suite 3 : design premium bundle COL manufacturer VAL total training COL price VAL 299.99	88
+COL title VAL everquest : titanium COL manufacturer VAL sony-creative-software COL price VAL 19.95	89
+COL title VAL emc retrospect 7.5 professional for windows upgrade COL manufacturer VAL dantz COL price VAL 	90
+COL title VAL iriscard pro business card scanner COL manufacturer VAL iris COL price VAL 199.99	91
+COL title VAL computrace lojack for laptops 4 year subscription COL manufacturer VAL absolute software COL price VAL 119.99	92
+COL title VAL microsoft office frontpage 2003 academic version windows ) COL manufacturer VAL microsoft COL price VAL 159.98	93
+COL title VAL warlords 3 ( jewel case ) COL manufacturer VAL red-orb-entertainment COL price VAL 	94
+COL title VAL autocad 2007 courseware customizing the interface COL manufacturer VAL autodesk psg COL price VAL 47.95	95
+COL title VAL sonicwall internet upgrade ( 50-node ) COL manufacturer VAL sonicwall COL price VAL 	96
+COL title VAL tournament poker 2005 COL manufacturer VAL eagle games COL price VAL 20.99	97
+COL title VAL listen for ipod magnetic time COL manufacturer VAL sos-aggregation-company COL price VAL 39.99	99
+COL title VAL textbridge pro 11 5u license xp COL manufacturer VAL nuance communications inc. . COL price VAL 	100
+COL title VAL atari arcade classics ( mac ) COL manufacturer VAL macsoft COL price VAL 19.99	101
+COL title VAL myinvoices & estimates deluxe COL manufacturer VAL avanquest software COL price VAL 39.95	102
+COL title VAL my sim aquarium COL manufacturer VAL viva media COL price VAL 19.99	103
+COL title VAL instant immersion spanish ( audio book ) COL manufacturer VAL topics entertainment COL price VAL 	105
+COL title VAL cisco security server agent for windows and solaris license 100 agents win solaris csa-b100-srvr-k9 ) COL manufacturer VAL cisco-systems-enterprise COL price VAL 	106
+COL title VAL photoshop elements 5 and premiere elements 3 bundle win minibox ( 29180248 ) COL manufacturer VAL adobe COL price VAL 242.62	107
+COL title VAL buzby breakin ' all the rules hermie and friends COL manufacturer VAL digital praise COL price VAL 19.99	108
+COL title VAL instant immersion french 2.0 COL manufacturer VAL topics entertainment COL price VAL 29.99	109
+COL title VAL hp digital sending secure license 50 users std COL manufacturer VAL hewlett packard COL price VAL 	110
+COL title VAL instant play electric guitar deluxe COL manufacturer VAL topics entertainment COL price VAL 39.99	111
+COL title VAL foreign policy & reform ( win/mac ) ( jewel case ) COL manufacturer VAL fogware publishing COL price VAL 9.99	112
+COL title VAL microsoft licenses win svr 2003 ext conn lic ( r3900292 ) COL manufacturer VAL microsoft licenses COL price VAL 3371.85	113
+COL title VAL quickbooks pos : pro multistore 6.0 COL manufacturer VAL intuit inc. COL price VAL 1399.95	114
+COL title VAL encyclopedia britannica deluxe 2008 win/mac COL manufacturer VAL avanquest COL price VAL 29.95	115
+COL title VAL cook 'n vegetarian COL manufacturer VAL dvo enterprises COL price VAL 19.99	116
+COL title VAL hidden expedition : titanic COL manufacturer VAL activision COL price VAL 19.99	117
+COL title VAL crystal reports xi professional edition COL manufacturer VAL business objects COL price VAL 495.0	118
+COL title VAL sierra hallmark card studio special edition windows ) COL manufacturer VAL nova development COL price VAL 	119
+COL title VAL crusader kings COL manufacturer VAL atari COL price VAL 19.99	120
+COL title VAL microsoft licenses exch . srvr extrn conn sa eng ( 39400416 ) COL manufacturer VAL microsoft licenses COL price VAL 42166.22	121
+COL title VAL watchguard serverlock manager ( 100 servers ) COL manufacturer VAL watchguard-technologies-inc COL price VAL 14995.0	122
+COL title VAL master server-upg COL manufacturer VAL novastor corporation COL price VAL 	123
+COL title VAL tlc dr. seuss reading learning system 2008 COL manufacturer VAL encore COL price VAL 19.99	124
+COL title VAL oxford spanish dictionary COL manufacturer VAL oxford-university-press COL price VAL 19.95	126
+COL title VAL pantone reference library COL manufacturer VAL pantone inc. COL price VAL 1623.06	127
+COL title VAL procurve vpn client software unlimited client licenses COL manufacturer VAL hewlett packard COL price VAL 	128
+COL title VAL oxford spanish dictionary COL manufacturer VAL tri synergy COL price VAL 19.99	129
+COL title VAL microsoft licenses sps extrnlconnnonemplyenglands c ( h3200034 ) COL manufacturer VAL microsoft licenses COL price VAL 101515.55	130
+COL title VAL microspot interiors COL manufacturer VAL microspot ltd. COL price VAL 99.95	131
+COL title VAL upgrade emc retrospect 7.5 multi server windows only COL manufacturer VAL dantz COL price VAL 	132
+COL title VAL snap enterprise data replicator advanced license for 10000 series COL manufacturer VAL adaptec COL price VAL 	133
+COL title VAL employee appraiser 5.0 deluxe mailer COL manufacturer VAL global marketing COL price VAL 394.6	134
+COL title VAL microsoft crm professional cal 3.0 product upgrade license pack user cal COL manufacturer VAL microsoft software COL price VAL 9980.0	135
+COL title VAL upgrade robohelp server 6 win ue 1u COL manufacturer VAL adobe COL price VAL 3609.98	136
+COL title VAL netmanage rumba unix-hp edition v. 7.3 upgrade license 902453-006 ) COL manufacturer VAL netmanage COL price VAL 	137
+COL title VAL sonicwall gms standard edition 10 node license COL manufacturer VAL sonicwall COL price VAL 	138
+COL title VAL adobe creative suite cs3 design premium upsell [ mac ] COL manufacturer VAL adobe COL price VAL 1599.0	139
+COL title VAL retrospect 6.0 desktop mac upgrade COL manufacturer VAL dantz COL price VAL 59.99	140
+COL title VAL ca brightstor arcserve backup r11 .1 for netware tape library option service pack COL manufacturer VAL computer associates COL price VAL 	142
+COL title VAL adobe acrobat distiller svr v6-cd linux u/u 42050142 ) COL manufacturer VAL adobe systems COL price VAL 	143
+COL title VAL backup exec netware open file v9 .2 e/g full package product COL manufacturer VAL veritas COL price VAL 695.0	144
+COL title VAL microsoft virtual pc for mac 7.0 with windows 2000 COL manufacturer VAL microsoft COL price VAL 249.99	145
+COL title VAL microsoft mappoint 2006 standard edition COL manufacturer VAL microsoft COL price VAL 299.0	146
+COL title VAL red hat entprse linux as 3 amd rhf0211us ) COL manufacturer VAL red hat software COL price VAL 	147
+COL title VAL ca arcserve bkup r11 .1 / nw stor area netw ( san ) opt prod only COL manufacturer VAL computer associates COL price VAL 	148
+COL title VAL enterasys vpn & firewall code upgrade xsr-18xx-vpn-fw ) COL manufacturer VAL cabletron systems COL price VAL 1928.07	149
+COL title VAL suretrak project manager 3.0 COL manufacturer VAL primavera systems COL price VAL 499.0	150
+COL title VAL upgrade 3d for exceed 2007 1u COL manufacturer VAL hummingbird communications COL price VAL 	153
+COL title VAL cisco 3745 ser ios ent cd374-esk9 = ) COL manufacturer VAL cisco systems enterprise COL price VAL 2814.33	154
+COL title VAL softgrid cal for ts 4.1 english mlp 20 user cal COL manufacturer VAL microsoft COL price VAL 	155
+COL title VAL adobe photoshop elements 4.0 plus adobe premiere elements 2.0 complete package 1 user cd mini-box win canadian french 29180162 ) COL manufacturer VAL adobe systems inc COL price VAL 	157
+COL title VAL photo objects 150 000 for macintosh COL manufacturer VAL nova development COL price VAL 49.99	158
+COL title VAL gods : lands of infinity special edition COL manufacturer VAL strategy first COL price VAL 29.99	161
+COL title VAL icopydvds2 ultra by digital wunders COL manufacturer VAL global-marketing-partners COL price VAL 89.99	162
+COL title VAL hallmark blank greeting cards half-fold matte premium 20 count COL manufacturer VAL nova development COL price VAL 12.99	163
+COL title VAL sea scene : living underwater worlds ( jewel case ) COL manufacturer VAL valusoft COL price VAL 9.99	164
+COL title VAL hp storageworks secure path for windows workgroup edition v. 4.0 c license 213076-b26 ) COL manufacturer VAL hewlett packard COL price VAL 	165
+COL title VAL equilibrium debabelizer pro 6.0 1 user COL manufacturer VAL equilibrium COL price VAL 599.99	166
+COL title VAL prosoft tunetech for ipod ( mac ) COL manufacturer VAL prosoft engineering COL price VAL 74.99	167
+COL title VAL autodesk discreet combustion 4 windows ) COL manufacturer VAL autodesk COL price VAL 	168
+COL title VAL reel deal casino quest COL manufacturer VAL phantom efx COL price VAL 19.99	169
+COL title VAL microsoft licenses word mac 10.0 eng govt ( d4800369 ) COL manufacturer VAL microsoft licenses COL price VAL 349.83	171
+COL title VAL ca arcserve bkup r11 .5 win agent mac os x upgrade prod only COL manufacturer VAL computer associates COL price VAL 	172
+COL title VAL netmanage rumba web to host as400 ed v4 .2 910620-000 ) COL manufacturer VAL netmanage COL price VAL 	173
+COL title VAL 1pk internet sec ste 2007 oem COL manufacturer VAL ca oem COL price VAL 	174
+COL title VAL diskeeper 2007 professional single lic pack COL manufacturer VAL diskeeper corporation COL price VAL 79.21	175
+COL title VAL instant immersion japanese ( audio book ) COL manufacturer VAL topics entertainment COL price VAL 	176
+COL title VAL world of warcraft 60 day pre-paid time card COL manufacturer VAL blizzard entertainment COL price VAL 29.99	177
+COL title VAL smart steps 4th grade COL manufacturer VAL dorling-kindersley-multimedia - ( dk ) COL price VAL 29.95	178
+COL title VAL ca arcserve bkup r11 .5 win dro sp1 prod only COL manufacturer VAL computer associates COL price VAL 	179
+COL title VAL textbridge pro 11 COL manufacturer VAL nuance-communications-inc . COL price VAL 79.99	180
+COL title VAL emedia rock guitar method COL manufacturer VAL emedia COL price VAL 39.99	181
+COL title VAL home bartending 101 shooters COL manufacturer VAL arc-media-inc . COL price VAL 19.95	182
+COL title VAL jumpstart reading with karaoke COL manufacturer VAL knowledge adventure COL price VAL 29.99	183
+COL title VAL crystal reports xi developer COL manufacturer VAL business objects COL price VAL 595.0	184
+COL title VAL iremember digital scrapbooking 2.0 COL manufacturer VAL intriguing development COL price VAL 39.95	185
+COL title VAL learn2 training for microsoft powerpoint COL manufacturer VAL topics-entertainment-software - ( consignment ) COL price VAL 9.99	186
+COL title VAL adobe acrobat distiller svr v6-cd sun 100u 42050106 ) COL manufacturer VAL adobe COL price VAL 9104.19	187
+COL title VAL tomb raider : legend COL manufacturer VAL eidos interactive COL price VAL 19.99	188
+COL title VAL upgrade delphi 2006 pro named fr delphi v3-2005 pro cd COL manufacturer VAL borland international COL price VAL 	189
+COL title VAL isi researchsoft reference manager 11 single user COL manufacturer VAL isi researchsoft COL price VAL 299.99	190
+COL title VAL high availability requires two livesecurity firesboxes COL manufacturer VAL watchguard technologies inc COL price VAL 1995.0	191
+COL title VAL backup exec 10d win adv disk v10 .1 lic only ( e180518 ) COL manufacturer VAL symantec corporation . COL price VAL 983.34	193
+COL title VAL procurve manager plus upgrade - COL manufacturer VAL hewlett packard COL price VAL 	194
+COL title VAL world of warcraft COL manufacturer VAL blizzard entertainment COL price VAL 19.99	195
+COL title VAL world of warcraft pc COL manufacturer VAL vivendi COL price VAL 35.7	196
+COL title VAL sonicwall global vpn client license 01-ssc-5310 ) COL manufacturer VAL sonic systems inc. . COL price VAL 	197
+COL title VAL scansoft paperport professional 11 5 user license COL manufacturer VAL nuance communications inc. COL price VAL 949.99	198
+COL title VAL netmanage upg rumba unix-hp edition level 902453-007-c ) COL manufacturer VAL netmanage COL price VAL 	199
+COL title VAL upg serverlock for solaris gold COL manufacturer VAL watchguard technologies inc COL price VAL 	200
+COL title VAL backup exec netware remote agt win/netware svr v9 .2 e/g COL manufacturer VAL veritas COL price VAL 295.0	201
+COL title VAL the computrace lojack for laptops computer tracking and loss control solution by COL manufacturer VAL lenovo COL price VAL 	202
+COL title VAL lotus dev . mqseries link for r/3-v 1.2 cd sol 04l1671 ) COL manufacturer VAL lotus development corp COL price VAL 	203
+COL title VAL cisco ios enterprise services complete package cd28-esk9 = ) COL manufacturer VAL cisco systems enterprise COL price VAL 	204
+COL title VAL nortel contivity stateful firewall license standard 1 switch COL manufacturer VAL nortel COL price VAL 	205
+COL title VAL hp data protector exp bu svr cmp upgrade ltu COL manufacturer VAL hewlett packard COL price VAL 	206
+COL title VAL crystal reports 11 professional full product french COL manufacturer VAL business objects COL price VAL 909.66	207
+COL title VAL wasp bar code wasp bar code labeler complete package 3 users std cd - COL manufacturer VAL wasp technologies COL price VAL 	208
+COL title VAL ibm rational clearcase lt v. 6.0.0 media vol passport passport adva COL manufacturer VAL ibm COL price VAL 	209
+COL title VAL upgrade terminal emulation software 2006 with media 1u COL manufacturer VAL esker COL price VAL 	210
+COL title VAL microsoft entertainment pack ce COL manufacturer VAL microsoft COL price VAL 49.5	211
+COL title VAL diskeeper 2007 pro premier 10-lic pack COL manufacturer VAL diskeeper corporation COL price VAL 1372.21	212
+COL title VAL netmanage rumba web as/400 edition 910523-002 ) COL manufacturer VAL netmanage COL price VAL 	213
+COL title VAL watchguard 1yr subs firebox x5 webblocker wg017196 ) COL manufacturer VAL watchguard technologies inc COL price VAL 159.9	214
+COL title VAL netmanage rumba web to host as400 ed v4 .2 910623-000 ) COL manufacturer VAL netmanage COL price VAL 	215
+COL title VAL adobe illustrator cs3 upgrade from freehand [ mac ] COL manufacturer VAL adobe COL price VAL 199.0	216
+COL title VAL cisco syst . minor release : requires existing cww-6 .1 - win-mr ) COL manufacturer VAL cisco systems enterprise COL price VAL 	217
+COL title VAL microsoft upg win small business svr cal t74-01215 ) COL manufacturer VAL microsoft corporation COL price VAL 330.14	218
+COL title VAL ca brightstor arcserve backup r11 .1 for netware upgrade from arcserve 7 for netware COL manufacturer VAL computer associates COL price VAL 	219
+COL title VAL mobileinventory additional mobile license COL manufacturer VAL wasp technologies COL price VAL 	220
+COL title VAL watchguard license wg vpn upgrade from 4 to 10 ( wg4110 ) COL manufacturer VAL watchguard license COL price VAL 2098.55	221
+COL title VAL pinnacle studio plus titanium edition v10 .5 COL manufacturer VAL pinnacle COL price VAL 69.99	222
+COL title VAL symantec client security 3.1 with groupware protection business pack 50 user COL manufacturer VAL symantec COL price VAL 3732.0	223
+COL title VAL netmanage rumba web as/400 edition 910584-001 ) COL manufacturer VAL netmanage COL price VAL 	224
+COL title VAL microsoft powerpoint 2004 ( mac ) COL manufacturer VAL microsoft COL price VAL 229.99	225
+COL title VAL refviz v2 mac single user COL manufacturer VAL isi researchsoft COL price VAL 299.95	226
+COL title VAL e frontier manga studio debut 3.0 ( single user ) COL manufacturer VAL curious labs inc. COL price VAL 49.99	227
+COL title VAL microsoft licenses win svr 2003 device cal l/sa ( r1800144 ) COL manufacturer VAL microsoft licenses COL price VAL 74.59	228
+COL title VAL vcomm system suite professional 7 COL manufacturer VAL avanquest COL price VAL 49.95	229
+COL title VAL ca arcserve bkup r11 .5 win svrless bkup opt sp1 - prod only COL manufacturer VAL computer associates COL price VAL 	230
+COL title VAL red hat enterprise linux ws v. 4 update 4 license 1 workstation rl296aa ) COL manufacturer VAL hewlett packard COL price VAL 	231
+COL title VAL printshop home & office labels COL manufacturer VAL broderbund COL price VAL 19.95	232
+COL title VAL photo explosion deluxe 3.0 COL manufacturer VAL nova development COL price VAL 49.99	233
+COL title VAL pdf converter professional v4 english COL manufacturer VAL nuance communications inc. COL price VAL 99.99	235
+COL title VAL readiris pro 11 COL manufacturer VAL global marketing partners COL price VAL 129.99	236
+COL title VAL persoft upg smarterm office v12 .1 73098 ) COL manufacturer VAL persoft COL price VAL 	237
+COL title VAL ca brightstor arcserve backup r11 .5 for enterprise option for advantage ingres for COL manufacturer VAL computer associates COL price VAL 	238
+COL title VAL left behind : ilumina edition COL manufacturer VAL tyndale house COL price VAL 29.99	241
+COL title VAL lotus dev . ibm db2 net search extender v. 8.2 media bb0kyna ) COL manufacturer VAL lotus development corp COL price VAL 	242
+COL title VAL money premium 2007 win32 eng na mini box us only cd COL manufacturer VAL microsoft COL price VAL 118.46	243
+COL title VAL microsoft visual studio team edition for software developers 2005 with msdn premium COL manufacturer VAL microsoft COL price VAL 5479.0	244
+COL title VAL dora the explorer : dora 's world adventures COL manufacturer VAL activision COL price VAL 19.99	245
+COL title VAL microsoft licenses isa server lic/sa olp c ( e8400294 ) COL manufacturer VAL microsoft licenses COL price VAL 3210.4	246
+COL title VAL netmanage onweb web-to-host v. 5.1 upgrade license 910443-004 ) COL manufacturer VAL netmanage COL price VAL 	247
+COL title VAL microsoft windows small business server cal 2003 license pack 20 client addpack device COL manufacturer VAL microsoft software COL price VAL 	248
+COL title VAL scansoft paperport 11 5 user license COL manufacturer VAL nuance communications inc. COL price VAL 474.99	249
+COL title VAL adobe after effects professional 7.0 COL manufacturer VAL adobe COL price VAL 999.0	250
+COL title VAL microsoft crm small business ed cal 3.0 license pack user cal COL manufacturer VAL microsoft software COL price VAL 9929.0	251
+COL title VAL stompsoft registry repair COL manufacturer VAL stompsoft inc. COL price VAL 29.99	252
+COL title VAL filemaker mobile 8 for palm os and pocket pc COL manufacturer VAL filemaker COL price VAL 69.0	253
+COL title VAL watchguard mobile user vpn 5 user bundle wg3605 ) COL manufacturer VAL watchguard technologies inc COL price VAL 	254
+COL title VAL diskeeper 2007 pro premier 5-lic pack COL manufacturer VAL diskeeper corporation COL price VAL 736.66	255
+COL title VAL hallmark card studio 2005 deluxe COL manufacturer VAL sierra home COL price VAL 49.99	256
+COL title VAL ca brightstor arcserve backup r11 .5 for enterprise option for advantage ingres for COL manufacturer VAL computer associates COL price VAL 	257
+COL title VAL microsoft visual studio team edition for software architect 2005 with msdn premium COL manufacturer VAL microsoft COL price VAL 5479.0	258
+COL title VAL library expansion option-upg COL manufacturer VAL novastor corporation COL price VAL 	259
+COL title VAL cisco 2600xm ser ios ip/fw/ids cd26xm-ch = ) COL manufacturer VAL cisco systems enterprise COL price VAL 	260
+COL title VAL procurve mobility manager 1.0 is a plug-in module for procurve manager plus 2.0 COL manufacturer VAL hewlett packard COL price VAL 	261
+COL title VAL hp sp linux we 50 lic/cd 3.0 c t3586a ) COL manufacturer VAL hewlett-packard - ( consumables ) COL price VAL 	262
+COL title VAL symantec mail security for smtp 5.0 smb av cd 5u gov COL manufacturer VAL symantec COL price VAL 	263
+COL title VAL adobe photoshop cs3 extended [ mac ] COL manufacturer VAL adobe COL price VAL 999.0	264
+COL title VAL adobe indesign cs3 [ mac ] COL manufacturer VAL adobe COL price VAL 699.0	265
+COL title VAL intervideo dvd copy 5 platinum COL manufacturer VAL corel COL price VAL 49.99	266
+COL title VAL adobe photoshop elements 5.0 / premier elements 3.0 [ lb ] COL manufacturer VAL adobe COL price VAL 149.99	267
+COL title VAL world of rainbow fish COL manufacturer VAL global-software-publishing COL price VAL 19.99	268
+COL title VAL microsoft publisher with digital imaging 2003 [ old version ] COL manufacturer VAL microsoft COL price VAL 209.99	269
+COL title VAL adobe acrobat 7.0 professional COL manufacturer VAL adobe COL price VAL 449.99	270
+COL title VAL microsoft office small business 2007 COL manufacturer VAL microsoft software COL price VAL 735.33	271
+COL title VAL adobe audition 2.0 COL manufacturer VAL adobe COL price VAL 349.0	272
+COL title VAL quickbooks credit card processing kit 3.0 COL manufacturer VAL intuit COL price VAL 39.95	273
+COL title VAL instant immersion italian 2.0 COL manufacturer VAL topics entertainment COL price VAL 29.99	274
+COL title VAL easy drums ( jewel case ) COL manufacturer VAL arcmedia COL price VAL 9.99	275
+COL title VAL instant immersion 33 languages COL manufacturer VAL topics entertainment COL price VAL 49.99	276
+COL title VAL super solvers spellbound ! ! school edition for mac COL manufacturer VAL learning company COL price VAL 49.95	277
+COL title VAL snap ! 1 001 letters ( jewel case ) COL manufacturer VAL topics entertainment COL price VAL 19.95	278
+COL title VAL the printshop 20 COL manufacturer VAL broderbund COL price VAL 29.99	279
+COL title VAL startopia COL manufacturer VAL eidos interactive COL price VAL 39.95	280
+COL title VAL easy home massage dvd COL manufacturer VAL selectmedia entertainment COL price VAL 19.95	281
+COL title VAL elementary success deluxe 2006 ( dw dvd ) COL manufacturer VAL topics entertainment COL price VAL 49.99	282
+COL title VAL tonka town ( jewel case ) COL manufacturer VAL atari COL price VAL 9.99	283
+COL title VAL sibelius 5 educational edition COL manufacturer VAL sibelius-software-ltd . COL price VAL 329.0	284
+COL title VAL weekly reader preparing for kindergarten COL manufacturer VAL fogware publishing COL price VAL 19.99	285
+COL title VAL my maillist & addressbook COL manufacturer VAL mysoftware company COL price VAL 19.95	286
+COL title VAL sibelius 5 professional edition COL manufacturer VAL sibelius-software-ltd . COL price VAL 599.0	287
+COL title VAL tonka search & rescue 2 COL manufacturer VAL infogrames COL price VAL 	288
+COL title VAL professional training for vegas 7 and dvd architect 4 sw COL manufacturer VAL sony-pictures-digital-entertainment COL price VAL 249.95	289
+COL title VAL talk now ! learn dutch COL manufacturer VAL eurotalk interactive COL price VAL 29.95	290
+COL title VAL wacky bird hunter COL manufacturer VAL selectsoft publishing COL price VAL 19.95	291
+COL title VAL namco museum 50th anniversary collection COL manufacturer VAL namco video games COL price VAL 19.99	292
+COL title VAL treasure galaxy 5-user lab pack for mac COL manufacturer VAL learning company COL price VAL 149.95	293
+COL title VAL dk rainbow fish most beautiful fish COL manufacturer VAL dk COL price VAL 9.99	294
+COL title VAL madeline rainy day activities COL manufacturer VAL encore software COL price VAL 19.95	295
+COL title VAL mighty math number heroes COL manufacturer VAL edmark COL price VAL 29.95	296
+COL title VAL superstart ! science arcade COL manufacturer VAL selectsoft publishing COL price VAL 24.95	297
+COL title VAL state standards grade 6 COL manufacturer VAL topics entertainment COL price VAL 29.95	298
+COL title VAL wacky farm COL manufacturer VAL casual arcade COL price VAL 19.95	299
+COL title VAL police quest compilation COL manufacturer VAL vivendi games COL price VAL 19.99	300
+COL title VAL broderbund printmaster platinum 16.0 COL manufacturer VAL encore software COL price VAL 39.99	301
+COL title VAL encyclopedia britannica profiles : dinosaurs ( jewel case ) COL manufacturer VAL atari COL price VAL 9.99	302
+COL title VAL real arcade : adventure inlay COL manufacturer VAL activision COL price VAL 29.95	303
+COL title VAL fisher-price rescue heroes : lava landslide COL manufacturer VAL knowledge adventure COL price VAL 	304
+COL title VAL tonka raceway xp compatible ( jewel case ) COL manufacturer VAL hasbro interactive COL price VAL 29.95	305
+COL title VAL quickstart photo montage studio COL manufacturer VAL selectsoft publishing COL price VAL 19.95	306
+COL title VAL season ticket football 2003 COL manufacturer VAL atari COL price VAL 19.99	307
+COL title VAL virusbarrier x4 10.4 for mac-10 users COL manufacturer VAL intego COL price VAL 329.95	308
+COL title VAL family tree maker version 16 deluxe COL manufacturer VAL encore COL price VAL 69.95	309
+COL title VAL instant architect design suite COL manufacturer VAL imsi design COL price VAL 29.99	310
+COL title VAL axis network camera 213 ptz digital video camera 0220-004 ) COL manufacturer VAL axis-communication-inc . COL price VAL 	311
+COL title VAL norton antivirus 2007 COL manufacturer VAL symantec COL price VAL 39.99	312
+COL title VAL backyard soccer ( mls edition ) COL manufacturer VAL humongous sports COL price VAL 	313
+COL title VAL zipmagic personal edition COL manufacturer VAL allume systems COL price VAL 19.95	314
+COL title VAL super solvers mission t.h.i.n.k 25 user site license COL manufacturer VAL learning company COL price VAL 399.95	315
+COL title VAL f-secure internet security 2007 3 pcs COL manufacturer VAL global-marketing-partners COL price VAL 79.99	316
+COL title VAL disney 2nd grade active leveling advantage w buzz ( jewel case ) ages 6-8 COL manufacturer VAL disney interactive COL price VAL 9.99	317
+COL title VAL ultimate puzzle games COL manufacturer VAL valusoft COL price VAL 19.99	318
+COL title VAL poetry fiction and drama ( win/mac ) ( jewel case ) COL manufacturer VAL fogware publishing COL price VAL 9.99	319
+COL title VAL quicken 2007 premier COL manufacturer VAL intuit COL price VAL 79.95	320
+COL title VAL route 66 mobile 7 usa/cdn for windows mobile 5 COL manufacturer VAL csdc COL price VAL 149.0	321
+COL title VAL adobe premiere pro 2.0 COL manufacturer VAL adobe COL price VAL 849.0	322
+COL title VAL geometry ( win/mac ) ( jewel case ) COL manufacturer VAL fogware publishing COL price VAL 9.99	323
+COL title VAL reader rabbit preschool COL manufacturer VAL the-learning-company COL price VAL 29.99	324
+COL title VAL cross stitch design studio ( jewel case ) COL manufacturer VAL m-and-r-technologies COL price VAL 9.99	325
+COL title VAL math missions : the race to spectacle city arcade ( grades k-2 ) COL manufacturer VAL scholastic COL price VAL 29.95	326
+COL title VAL world of wild cats COL manufacturer VAL arc media inc. COL price VAL 19.95	327
+COL title VAL state standards grade 8 COL manufacturer VAL topics entertainment COL price VAL 29.95	328
+COL title VAL cluefinders 3rd grade adventures : mystery of mathra COL manufacturer VAL learning company COL price VAL 	329
+COL title VAL ghostsurf platinum 2006 [ lb ] COL manufacturer VAL avanquest publishing usa inc. COL price VAL 39.99	330
+COL title VAL instant home cooking ( jewel case ) COL manufacturer VAL topics entertainment COL price VAL 9.99	331
+COL title VAL spy sweeper [ lb ] COL manufacturer VAL webroot software COL price VAL 29.99	332
+COL title VAL adobe after effects 7.0 professional ( mac ) COL manufacturer VAL adobe COL price VAL 999.0	333
+COL title VAL transfer my dvd COL manufacturer VAL avanquest COL price VAL 29.95	334
+COL title VAL tlc zoombinis 3rd grade lrng sys 2007 sb cs by riverdeep 10548 ) COL manufacturer VAL encore-software-inc COL price VAL 	335
+COL title VAL csi : crime scene investigation COL manufacturer VAL ubi soft COL price VAL 19.99	336
+COL title VAL jaws COL manufacturer VAL majesco entertainment COL price VAL 19.99	337
+COL title VAL sega smash pack 2 COL manufacturer VAL activision COL price VAL 19.95	338
+COL title VAL post mortem COL manufacturer VAL dreamcatcher interactive COL price VAL 29.99	339
+COL title VAL zoboomafoo animal logic cd/workbook combo COL manufacturer VAL brighter minds media inc. COL price VAL 14.99	340
+COL title VAL mother goose interactive storybook COL manufacturer VAL encore software COL price VAL 19.95	341
+COL title VAL let 's learn about time & date COL manufacturer VAL selectsoft publishing COL price VAL 19.95	342
+COL title VAL living trust builder COL manufacturer VAL jian inc. COL price VAL 19.95	343
+COL title VAL ubi soft star wars activity center windows ) COL manufacturer VAL ubi soft COL price VAL 29.99	344
+COL title VAL portfolio media kit be syst recovery 7.0 win small business ed COL manufacturer VAL symantec COL price VAL 50.0	345
+COL title VAL mcafee internet security suite 2007 3 users COL manufacturer VAL mcafee COL price VAL 89.99	346
+COL title VAL jumpstart advanced 1st grade v2 .0 COL manufacturer VAL knowledge adventure COL price VAL 19.99	347
+COL title VAL microsoft office & windows training COL manufacturer VAL topics entertainment COL price VAL 29.99	348
+COL title VAL middle school success deluxe 2008 COL manufacturer VAL topics entertainment COL price VAL 49.99	349
+COL title VAL adobe creative suite cs3 design standard upsell [ mac ] COL manufacturer VAL adobe COL price VAL 899.0	350
+COL title VAL sony vegas 6 + dvd [ old version ] COL manufacturer VAL sony-pictures-digital-entertainment COL price VAL 899.95	353
+COL title VAL the universe ( win/mac ) ( jewel case ) COL manufacturer VAL fogware publishing COL price VAL 9.99	354
+COL title VAL zonealarm internet security suite COL manufacturer VAL zone labs COL price VAL 49.99	355
+COL title VAL ringtone media studio 2 COL manufacturer VAL laplink COL price VAL 19.95	356
+COL title VAL print workshop 2007 COL manufacturer VAL valusoft COL price VAL 19.99	357
+COL title VAL perfect attorney premium COL manufacturer VAL cosmi corporation COL price VAL 39.99	358
+COL title VAL adventure workshop 1st-3rd grade 8th edition COL manufacturer VAL encore COL price VAL 19.99	359
+COL title VAL fun for kids : preschool kindergarten featuring disney COL manufacturer VAL topics entertainment COL price VAL 29.99	360
+COL title VAL adobe creative suite cs3 web standard upsell COL manufacturer VAL adobe COL price VAL 799.0	361
+COL title VAL national geographic photo gallery ( jewel case ) COL manufacturer VAL topics entertainment COL price VAL 9.99	362
+COL title VAL sony psp media manager COL manufacturer VAL sony-computer-entertainment COL price VAL 24.99	363
+COL title VAL adobe premiere elements 3.0 [ lb ] COL manufacturer VAL adobe COL price VAL 99.99	364
+COL title VAL english literature basics ( win/mac ) ( jewel case ) COL manufacturer VAL fogware publishing COL price VAL 9.99	365
+COL title VAL riverdeep arthur 's kindergarten COL manufacturer VAL riverdeep COL price VAL 	366
+COL title VAL big oil : build an oil empire COL manufacturer VAL tri synergy COL price VAL 19.99	367
+COL title VAL jumpstart advanced 3rd grade v2 .0 COL manufacturer VAL knowledge adventure COL price VAL 19.99	368
+COL title VAL cosmi talking math & more for kids ( windows ) COL manufacturer VAL cosmi COL price VAL 	370
+COL title VAL microsoft powerpoint 2004 upgrade ( mac ) COL manufacturer VAL microsoft COL price VAL 109.99	371
+COL title VAL readiris pro 11 corporate edition COL manufacturer VAL iris inc. COL price VAL 399.99	372
+COL title VAL magellan mapsend lakes ( usa south ) COL manufacturer VAL magellan COL price VAL 114.66	373
+COL title VAL mcafee virusscan plus 2007 COL manufacturer VAL mcafee COL price VAL 39.99	374
+COL title VAL reel deal casino championship edition COL manufacturer VAL phantom efx COL price VAL 19.99	375
+COL title VAL printmaster gold v 17.0 COL manufacturer VAL nova development COL price VAL 19.95	376
+COL title VAL pc cillin internet sec 2007 lics large box 3u COL manufacturer VAL trend micro COL price VAL 49.95	377
+COL title VAL aquarium 3-in-one collection ( win/mac ) COL manufacturer VAL encore software COL price VAL 19.99	378
+COL title VAL cute ftp COL manufacturer VAL tri synergy COL price VAL 39.99	379
+COL title VAL kaspersky anti-virus 6.0 COL manufacturer VAL kaspersky lab COL price VAL 59.95	380
+COL title VAL restricted area COL manufacturer VAL whiptail COL price VAL 19.99	381
+COL title VAL adobe production studio premium COL manufacturer VAL adobe COL price VAL 1699.0	382
+COL title VAL merriam-webster 's dictionary ( win/mac ) ( jewel case ) COL manufacturer VAL fogware publishing COL price VAL 9.99	383
+COL title VAL lego island 2 : the brickster 's revenge ( xp compatible version ) COL manufacturer VAL lego media COL price VAL 	384
+COL title VAL tank battle COL manufacturer VAL casual arcade COL price VAL 19.95	385
+COL title VAL quickstudy u.s. government COL manufacturer VAL selectsoft publishing COL price VAL 19.95	386
+COL title VAL home budget for dummies COL manufacturer VAL atari COL price VAL 	387
+COL title VAL zonealarm wireless security COL manufacturer VAL encore software COL price VAL 29.99	388
+COL title VAL instant immersion japanese 2.0 COL manufacturer VAL topics entertainment COL price VAL 19.99	389
+COL title VAL encyclopedia of our living oceans COL manufacturer VAL dk multimedia COL price VAL 19.95	390
+COL title VAL ultimate pinball ( jewel case ) COL manufacturer VAL valusoft COL price VAL 9.99	391
+COL title VAL clifford reading pack ( dvd box ) COL manufacturer VAL scholastic COL price VAL 19.99	392
+COL title VAL microsoft visual studio test agent 2005 cd 1 processor license COL manufacturer VAL microsoft software COL price VAL 5099.0	393
+COL title VAL jumpstart advanced 2nd grade v2 .0 COL manufacturer VAL knowledge adventure COL price VAL 19.99	394
+COL title VAL world history ( win/mac ) ( jewel case ) COL manufacturer VAL fogware publishing COL price VAL 9.99	395
+COL title VAL quickbooks premier non-profit edition 2005 COL manufacturer VAL intuit inc. COL price VAL 499.95	396
+COL title VAL quickstart pc cleaner xp COL manufacturer VAL selectsoft publishing COL price VAL 19.95	397
+COL title VAL crayola first ladies costume maker COL manufacturer VAL encore software COL price VAL 19.95	398
+COL title VAL pokemon team turbo ( jewel case ) COL manufacturer VAL valusoft COL price VAL 9.99	400
+COL title VAL south park chef 's luv shack COL manufacturer VAL acclaim COL price VAL 39.95	401
+COL title VAL blues clues preschool COL manufacturer VAL humongous entertainment COL price VAL 	402
+COL title VAL backyard skateboarding COL manufacturer VAL atari COL price VAL 	403
+COL title VAL cosmi rom07524 print perfect business cards dvd COL manufacturer VAL cosmi COL price VAL 	404
+COL title VAL vivaldi 's musical adventure pod COL manufacturer VAL fogware publishing COL price VAL 9.95	405
+COL title VAL cluefinders 3rd grade COL manufacturer VAL the learning company COL price VAL 	406
+COL title VAL rayman 10th anniversary collection COL manufacturer VAL ubi soft COL price VAL 19.99	407
+COL title VAL before you know it deluxe spanish edition for pc/mac COL manufacturer VAL encore software COL price VAL 29.99	408
+COL title VAL pdf converter 4 COL manufacturer VAL nuance COL price VAL 49.95	409
+COL title VAL podmaxx '07 COL manufacturer VAL bling COL price VAL 29.99	411
+COL title VAL adobe creative suite cs3 web premium upsell [ mac ] COL manufacturer VAL adobe COL price VAL 1399.0	412
+COL title VAL human body 360 COL manufacturer VAL megasystems COL price VAL 29.99	413
+COL title VAL web radio recorder COL manufacturer VAL magix entertainment COL price VAL 	414
+COL title VAL bodyworks 6.0 25-user building site license COL manufacturer VAL learning company COL price VAL 399.95	415
+COL title VAL virtual labs : light COL manufacturer VAL edmark COL price VAL 19.95	416
+COL title VAL pressure pop ! COL manufacturer VAL selectsoft publishing COL price VAL 19.95	417
+COL title VAL essential business tools 2.0 COL manufacturer VAL valusoft COL price VAL 19.99	418
+COL title VAL let 's make stickers COL manufacturer VAL global software publishing COL price VAL 19.95	419
+COL title VAL student home learning system for pc/mac COL manufacturer VAL fogware publishing COL price VAL 139.99	420
+COL title VAL 3mds network operations manager diy annual subscptn 101 500u COL manufacturer VAL 3m COL price VAL 	421
+COL title VAL model web publisher 3.5.2 . COL manufacturer VAL computer-associates-international COL price VAL 	422
+COL title VAL microsoft licenses word olp c ( 05903871 ) COL manufacturer VAL microsoft licenses COL price VAL 205.73	423
+COL title VAL vpn manager five to ten firebox COL manufacturer VAL watchguard technologies inc COL price VAL 1995.0	424
+COL title VAL hoyle card games 2007 COL manufacturer VAL encore software COL price VAL 29.99	425
+COL title VAL ca arcserve bkup protection suite exch r11 .5 upgrade prod only COL manufacturer VAL computer associates COL price VAL 	426
+COL title VAL victorymul submitwolf version 6.0 swolf6r ) COL manufacturer VAL victory multimedia COL price VAL 149.99	427
+COL title VAL zonealarm anti-spyware COL manufacturer VAL zone labs COL price VAL 29.99	428
+COL title VAL the guild 2 pirates of the seas COL manufacturer VAL dreamcatcher interactive COL price VAL 29.99	429
+COL title VAL microsoft windows server 2003 client additional license for devices 5 pack COL manufacturer VAL microsoft COL price VAL 209.0	431
+COL title VAL cell phone software solution COL manufacturer VAL susteen COL price VAL 113.1	432
+COL title VAL mediapilot kit COL manufacturer VAL susteen COL price VAL 39.95	433
+COL title VAL upgrade pitstop server 3.5 1u win 2k/xp & mac os 10.2.8 COL manufacturer VAL enfocus software COL price VAL 499.0	434
+COL title VAL sudoku puzzle addict : unlimited edition COL manufacturer VAL global-software-publ-na COL price VAL 	436
+COL title VAL aircraft power pack for ms flight simulator COL manufacturer VAL red mile COL price VAL 29.99	437
+COL title VAL winway resume deluxe 11.0 network 10 COL manufacturer VAL nova development COL price VAL 	438
+COL title VAL sym clt security 3.1 scs media cd en COL manufacturer VAL symantec media COL price VAL 28.0	439
+COL title VAL sony acid music studio COL manufacturer VAL sony-pictures-digital-entertainment COL price VAL 69.99	441
+COL title VAL microsoft licenses biztalk hipaa std . sa only ( u0200024 ) COL manufacturer VAL microsoft licenses COL price VAL 4215.77	442
+COL title VAL microsoft windows small business server premium 2003 r2 upgrade cd/dvd 5 client COL manufacturer VAL microsoft COL price VAL 709.0	443
+COL title VAL jumpstart 1st grade COL manufacturer VAL knowledge adventure COL price VAL 	444
+COL title VAL instant landscaping 3.0 [ lb ] COL manufacturer VAL topics entertainment COL price VAL 19.99	445
+COL title VAL topics presents : ancient civilizations ( 4 cd set ) COL manufacturer VAL topics entertainment COL price VAL 29.99	446
+COL title VAL simple movie maker COL manufacturer VAL topics entertainment COL price VAL 19.99	447
+COL title VAL instant play electric guitar ( jewel box ) COL manufacturer VAL topics entertainment COL price VAL 6.99	448
+COL title VAL boomerang webpage designer gold COL manufacturer VAL boomerang COL price VAL 	449
+COL title VAL x-oom mp3 radio recorder windows ) COL manufacturer VAL x-oom COL price VAL 	450
+COL title VAL adobe after effects cs3 COL manufacturer VAL adobe COL price VAL 999.0	452
+COL title VAL phonics success deluxe 2006 ( large box ) COL manufacturer VAL topics entertainment COL price VAL 49.99	453
+COL title VAL land before time : preschool COL manufacturer VAL brighter-minds-media-inc . COL price VAL 9.99	454
+COL title VAL brainfood games cranium collection 2006 COL manufacturer VAL encore software COL price VAL 19.99	455
+COL title VAL clickart fonts ( 2006 ) by encore COL manufacturer VAL encore software COL price VAL 19.99	456
+COL title VAL national geographic presents : redshift 5 planetarium software COL manufacturer VAL topics entertainment COL price VAL 39.99	457
+COL title VAL stationery design studio COL manufacturer VAL summit software COL price VAL 19.99	458
+COL title VAL anti-spyware 3.0 win normal 1u new COL manufacturer VAL trend micro COL price VAL 48.91	459
+COL title VAL snap ! 8 player poker 5 pack COL manufacturer VAL topics entertainment COL price VAL 29.06	460
+COL title VAL alien disco safari COL manufacturer VAL encore COL price VAL 19.99	461
+COL title VAL emc retrospect 7.5 svr 1-client windows COL manufacturer VAL dantz COL price VAL 249.0	462
+COL title VAL kaplan sat/act/psat platinum 2007 win/mac COL manufacturer VAL topics entertainment COL price VAL 49.99	463
+COL title VAL ae painter v9 win/mac box COL manufacturer VAL corel corp COL price VAL 166.19	464
+COL title VAL adobe creative suite cs3 web standard upgrade [ mac ] COL manufacturer VAL adobe COL price VAL 399.0	465
+COL title VAL timbuktu remote control softwre 10 licenses for windows COL manufacturer VAL netopia COL price VAL 	466
+COL title VAL sat act and psat 2007 platinum COL manufacturer VAL topics entertainment COL price VAL 58.5	467
+COL title VAL treasure mathstorm COL manufacturer VAL the-learning-company COL price VAL 29.99	468
+COL title VAL ae mappoint 2006 cd COL manufacturer VAL microsoft corp COL price VAL 49.95	469
+COL title VAL cisco security desktop agent csa-b250-dtop-k9 ) COL manufacturer VAL cisco systems ( ciscopro ) COL price VAL 	470
+COL title VAL photoshop elements 4 mac retail eng 1u ( 19230169 ) COL manufacturer VAL adobe COL price VAL 145.39	471
+COL title VAL pro photo essentials plug in suite & iview mediapro 3 COL manufacturer VAL onone software COL price VAL 499.95	473
+COL title VAL microsoft asp net web matrix COL manufacturer VAL microsoft COL price VAL 30.0	474
+COL title VAL ae outlook 2007 win32 COL manufacturer VAL microsoft corp COL price VAL 	476
+COL title VAL mindjet mindmanager 7 mac single license COL manufacturer VAL mindjet COL price VAL 129.0	477
+COL title VAL sonicwall comprehensive gateway security suite 1 year upgrade plan 01-ssc-5845 ) COL manufacturer VAL sonic systems inc. . COL price VAL 	478
+COL title VAL sound studio 3 : record edit add effects to audio ( mac ) COL manufacturer VAL freeverse software COL price VAL 79.99	479
+COL title VAL jumpstart world 1st grade COL manufacturer VAL knowledge adventure COL price VAL 19.99	480
+COL title VAL art explosion t-shirt factory deluxe 3.0 COL manufacturer VAL nova development COL price VAL 29.99	481
+COL title VAL window washer COL manufacturer VAL webroot-software-inc COL price VAL 	482
+COL title VAL adobe premiere elements 3.0 COL manufacturer VAL adobe COL price VAL 161.73	484
+COL title VAL on hand spanish 1-2-3 windows ) COL manufacturer VAL on-hand-software COL price VAL 9.99	485
+COL title VAL pcanywhere 11.0 host only cd-rom xp 98 nt w2k me COL manufacturer VAL symantec COL price VAL 	486
+COL title VAL crystal reports 11 reporting essentials trng cbt COL manufacturer VAL business objects COL price VAL 199.99	487
+COL title VAL star wars battlefront ( mac ) COL manufacturer VAL aspyr media COL price VAL 39.99	488
+COL title VAL flyboys squadron mac COL manufacturer VAL ientertainment COL price VAL 29.99	489
+COL title VAL microsoft visual studio professional 2005 upgrade COL manufacturer VAL microsoft software COL price VAL 549.0	490
+COL title VAL hollywood volume 1 COL manufacturer VAL yamaha COL price VAL 31.95	491
+COL title VAL microsoft productivity pack for windows mobile COL manufacturer VAL microsoft COL price VAL 29.99	492
+COL title VAL adobe encore dvd 2.0 COL manufacturer VAL adobe COL price VAL 349.0	493
+COL title VAL webobjects 5.2 COL manufacturer VAL apple COL price VAL 699.95	494
+COL title VAL serious magic ultra2 master sets library 2 windows ) COL manufacturer VAL serious magic COL price VAL 276.5	495
+COL title VAL microsoft windows vista business 32-bit for system builders COL manufacturer VAL microsoft COL price VAL 179.99	496
+COL title VAL microsoft data analyzer 2002 COL manufacturer VAL microsoft COL price VAL 179.0	497
+COL title VAL mavis beacon typing 17 deluxe by broderbund COL manufacturer VAL encore software COL price VAL 39.99	498
+COL title VAL symantec pcanywhere 12.0 host only COL manufacturer VAL symantec COL price VAL 169.65	499
+COL title VAL the printshop business card maker ( jewel case ) COL manufacturer VAL riverdeep-learning-company COL price VAL 9.99	500
+COL title VAL microsoft digital image suite plus [ lb ] COL manufacturer VAL microsoft software COL price VAL 129.95	501
+COL title VAL symc backup exec sbs prm 11d win small business server COL manufacturer VAL symantec COL price VAL 885.83	502
+COL title VAL hallmark card studio 2006 COL manufacturer VAL sierra home COL price VAL 29.99	503
+COL title VAL adobe audition 2.0 upgrade COL manufacturer VAL adobe COL price VAL 129.0	504
+COL title VAL norton internet security mac 3.0 [ antivirus firewall privacy controls iclean ] COL manufacturer VAL symantec COL price VAL 99.95	505
+COL title VAL corel wordperfect office 12 standard upgrade COL manufacturer VAL corel COL price VAL 149.99	506
+COL title VAL raster design 2006 essentials COL manufacturer VAL autodesk psg COL price VAL 59.95	507
+COL title VAL acrobat professional 8 mac upsell standard-professional COL manufacturer VAL adobe COL price VAL 273.0	508
+COL title VAL services for netware 5.0 COL manufacturer VAL microsoft COL price VAL 149.0	509
+COL title VAL reader rabbit learning system 1st grade COL manufacturer VAL encore software COL price VAL 29.99	510
+COL title VAL microsoft publisher 2007 version upgrade COL manufacturer VAL microsoft COL price VAL 99.95	511
+COL title VAL microsoft windows xp professional upgrade with sp2 COL manufacturer VAL microsoft software COL price VAL 199.99	512
+COL title VAL mavis beacon typing 17 ( win/mac ) COL manufacturer VAL encore software COL price VAL 19.99	513
+COL title VAL microsoft windows vista ultimate upgrade [ dvd ] COL manufacturer VAL microsoft COL price VAL 259.95	514
+COL title VAL instant immersion spanish deluxe 2.0 COL manufacturer VAL topics entertainment COL price VAL 49.99	515
+COL title VAL adobe creative suite cs3 design premium upgrade [ mac ] COL manufacturer VAL adobe COL price VAL 599.0	516
+COL title VAL adobe photoshop cs3 [ mac ] COL manufacturer VAL adobe COL price VAL 649.0	517
+COL title VAL microsoft office 2004 standard upgrade ( mac ) COL manufacturer VAL microsoft COL price VAL 239.99	518
+COL title VAL microsoft student with encarta premium 2008 dvd COL manufacturer VAL microsoft COL price VAL 49.95	519
+COL title VAL quickbooks premier nonprofit edition 2007 COL manufacturer VAL intuit COL price VAL 399.95	520
+COL title VAL microsoft sql server developer edition 2005 cd/dvd COL manufacturer VAL microsoft software COL price VAL 49.95	521
+COL title VAL microsoft visio standard 2007 COL manufacturer VAL microsoft COL price VAL 259.95	522
+COL title VAL microsoft windows vista ultimate full version [ dvd ] COL manufacturer VAL microsoft COL price VAL 399.95	523
+COL title VAL apple final cut express hd 3.5 ( mac ) COL manufacturer VAL apple computer COL price VAL 299.0	524
+COL title VAL corel painter x win/mac COL manufacturer VAL corel COL price VAL 429.0	525
+COL title VAL cadopia 6 standard edition by cadopia COL manufacturer VAL global marketing partners COL price VAL 295.0	526
+COL title VAL quickbooks simple start 2007 COL manufacturer VAL intuit COL price VAL 99.95	528
+COL title VAL zoo tycoon 2 : marine mania expansion COL manufacturer VAL microsoft COL price VAL 19.99	529
+COL title VAL microsoft windows server 2003 client additional license for users-5 pack COL manufacturer VAL microsoft COL price VAL 809.0	531
+COL title VAL quickbooks pro 2007 for mac ( mac ) COL manufacturer VAL intuit COL price VAL 199.95	532
+COL title VAL upgrade freehand 11 maceng cd 1u COL manufacturer VAL adobe COL price VAL 274.95	533
+COL title VAL imsi resume writer deluxe [ lb ] COL manufacturer VAL imsi design COL price VAL 19.95	534
+COL title VAL microsoft windows live onecare 1.5 online pc care subscription [ 12 months ] COL manufacturer VAL microsoft COL price VAL 49.95	535
+COL title VAL apple . mac 4.0 online service COL manufacturer VAL apple COL price VAL 99.95	537
+COL title VAL apple iwork '06 ( mac dvd ) COL manufacturer VAL apple COL price VAL 79.0	538
+COL title VAL learning quickbooks 2007 COL manufacturer VAL intuit COL price VAL 39.95	539
+COL title VAL ulead videostudio 11 plus COL manufacturer VAL corel COL price VAL 129.99	540
+COL title VAL microsoft onenote 2007 COL manufacturer VAL microsoft COL price VAL 99.95	541
+COL title VAL apple ilife '06 ( mac dvd ) [ older version ] COL manufacturer VAL apple computer COL price VAL 79.0	542
+COL title VAL adobe photoshop cs3 upgrade [ mac ] COL manufacturer VAL adobe COL price VAL 199.0	543
+COL title VAL microsoft windows xp home edition full version with sp2 COL manufacturer VAL microsoft COL price VAL 199.0	544
+COL title VAL microsoft flight simulator x deluxe dvd COL manufacturer VAL microsoft COL price VAL 49.95	545
+COL title VAL microsoft outlook 2007 COL manufacturer VAL microsoft COL price VAL 109.95	547
+COL title VAL quickbooks pro 2007 small business financial software COL manufacturer VAL intuit COL price VAL 199.95	548
+COL title VAL adobe acrobat capture 100 000 page pack COL manufacturer VAL adobe COL price VAL 1514.99	549
+COL title VAL windows vista business spanish full version [ dvd ] COL manufacturer VAL microsoft COL price VAL 329.95	550
+COL title VAL symc backup exec sbs aws 11d win sbs agent for windows systems COL manufacturer VAL symantec COL price VAL 447.74	551
+COL title VAL corel snapfire plus [ ignite photo fun ] COL manufacturer VAL corel COL price VAL 39.99	552
+COL title VAL adobe indesign cs3 upgrade from pagemaker COL manufacturer VAL adobe COL price VAL 199.0	553
+COL title VAL instant immersion german deluxe 2.0 COL manufacturer VAL topics entertainment COL price VAL 39.99	554
+COL title VAL scooby doo glowing bug man ( jewel case ) COL manufacturer VAL encore software COL price VAL 9.99	555
+COL title VAL instant immersion italian deluxe 2.0 COL manufacturer VAL topics entertainment COL price VAL 49.99	556
+COL title VAL adobe creative suite cs3 production premium COL manufacturer VAL adobe COL price VAL 1699.0	557
+COL title VAL instant immersion spanish 2.0 COL manufacturer VAL topics entertainment COL price VAL 29.99	558
+COL title VAL adobe dreamweaver cs3 [ mac ] COL manufacturer VAL adobe COL price VAL 399.0	559
+COL title VAL symc backup exec aofo 11d win advanced open file option COL manufacturer VAL symantec COL price VAL 769.49	560
+COL title VAL quicken 2007 basic COL manufacturer VAL intuit COL price VAL 29.95	561
+COL title VAL adobe dreamweaver cs3 upgrade [ mac ] COL manufacturer VAL adobe COL price VAL 199.0	562
+COL title VAL macromedia director 10 mx 2004 COL manufacturer VAL adobe COL price VAL 2171.7	563
+COL title VAL h & r block taxcut 2006 premium federal COL manufacturer VAL h & r block COL price VAL 19.99	564
+COL title VAL adobe creative suite cs3 web premium [ mac ] COL manufacturer VAL adobe COL price VAL 1599.0	565
+COL title VAL apple garageband jam pack : symphony orchestra COL manufacturer VAL apple COL price VAL 99.0	566
+COL title VAL h & r block taxcut 2006 home & business + state COL manufacturer VAL h & r block COL price VAL 79.99	567
+COL title VAL dv rack 2 win retail ue1u COL manufacturer VAL adobe COL price VAL 908.69	568
+COL title VAL professor teaches windows xp COL manufacturer VAL individual software COL price VAL 19.99	570
+COL title VAL microsoft visio standard 2007 version upgrade COL manufacturer VAL microsoft COL price VAL 129.95	571
+COL title VAL adobe dreamweaver cs3 upgrade COL manufacturer VAL adobe COL price VAL 199.0	572
+COL title VAL coreldraw graphics suite x3 upgrade COL manufacturer VAL corel COL price VAL 179.0	573
+COL title VAL microsoft mappoint 2006 with gps COL manufacturer VAL microsoft COL price VAL 349.0	574
+COL title VAL millionaire sports edition ( jewel case ) COL manufacturer VAL disney interactive COL price VAL 9.99	575
+COL title VAL cluefinders 3rd grade adventures : mystery of mathra COL manufacturer VAL the learning company COL price VAL 24.99	576
+COL title VAL quicken 2007 home & business COL manufacturer VAL intuit COL price VAL 89.95	577
+COL title VAL microsoft office excel 2007 COL manufacturer VAL microsoft COL price VAL 229.95	578
+COL title VAL h & r block taxcut 2006 premium federal + state + efile COL manufacturer VAL h & r block COL price VAL 59.99	579
+COL title VAL quickbooks premier edition 2007 5 user multi-pack COL manufacturer VAL intuit COL price VAL 1499.95	580
+COL title VAL hoyle board games COL manufacturer VAL encore COL price VAL 9.99	581
+COL title VAL apple garageband jam pack : remix tools COL manufacturer VAL apple COL price VAL 99.0	582
+COL title VAL roxio popcorn 2 ( mac ) COL manufacturer VAL roxio COL price VAL 49.95	583
+COL title VAL microsoft windows vista business full version [ dvd ] COL manufacturer VAL microsoft COL price VAL 299.95	584
+COL title VAL intervideo windvd 8 platinum COL manufacturer VAL corel COL price VAL 69.99	585
+COL title VAL quickbooks premier professional services edition 2007 COL manufacturer VAL intuit COL price VAL 399.95	586
+COL title VAL microsoft word 2007 version upgrade COL manufacturer VAL microsoft COL price VAL 109.95	587
+COL title VAL adobe creative suite cs3 design standard [ mac ] COL manufacturer VAL adobe COL price VAL 1199.0	588
+COL title VAL quicken 2007 deluxe COL manufacturer VAL intuit COL price VAL 59.95	589
+COL title VAL apple garageband jam pack : world music COL manufacturer VAL apple COL price VAL 99.0	590
+COL title VAL apple iwork '06 family pack ( mac dvd ) [ older version ] COL manufacturer VAL apple COL price VAL 99.0	591
+COL title VAL adobe after effects cs3 upgrade COL manufacturer VAL adobe COL price VAL 299.0	592
+COL title VAL adobe indesign cs3 upgrade [ mac ] COL manufacturer VAL adobe COL price VAL 199.0	593
+COL title VAL corel wordperfect office x3 professional edition COL manufacturer VAL corel COL price VAL 399.99	594
+COL title VAL adobe creative suite cs3 design premium [ mac ] COL manufacturer VAL adobe COL price VAL 1799.0	597
+COL title VAL adobe pagemaker v7 .0.2 cd mac-upg 17530402 ) COL manufacturer VAL adobe COL price VAL 138.45	598
+COL title VAL instant immersion french deluxe 2.0 COL manufacturer VAL topics entertainment COL price VAL 49.99	599
+COL title VAL apple . mac 4.0 online service family pack COL manufacturer VAL apple COL price VAL 179.95	600
+COL title VAL jumpstart kindergarten COL manufacturer VAL knowledge adventure COL price VAL 19.99	601
+COL title VAL adobe creative suite cs3 design standard upgrade [ mac ] COL manufacturer VAL adobe COL price VAL 399.0	602
+COL title VAL apple aperture 1.5 COL manufacturer VAL apple COL price VAL 299.0	603
+COL title VAL microsoft word 2004 ( mac ) COL manufacturer VAL microsoft COL price VAL 229.99	605
+COL title VAL microsoft office 2004 professional ( mac ) COL manufacturer VAL microsoft COL price VAL 499.99	606
+COL title VAL broderbund print shop 21 deluxe COL manufacturer VAL encore software COL price VAL 49.99	607
+COL title VAL adobe creative suite cs3 web premium upgrade [ mac ] COL manufacturer VAL adobe COL price VAL 499.0	608
+COL title VAL quicken 2007 for mac COL manufacturer VAL intuit COL price VAL 69.95	609
+COL title VAL mavis beacon teaches typing deluxe 16 COL manufacturer VAL broderbund COL price VAL 39.99	610
+COL title VAL quickbooks premier manufacturer and wholesale edition 2007 COL manufacturer VAL intuit COL price VAL 399.95	611
+COL title VAL corel ventura 10 dvd COL manufacturer VAL corel COL price VAL 699.0	612
+COL title VAL math missions : the amazing arcade adventure grades 3-5 COL manufacturer VAL scholastic COL price VAL 19.99	613
+COL title VAL microsoft works suite 2006 COL manufacturer VAL microsoft COL price VAL 99.0	614
+COL title VAL adobe creative suite cs3 design standard upgrade COL manufacturer VAL adobe COL price VAL 399.0	615
+COL title VAL microsoft windows vista home basic upgrade [ dvd ] COL manufacturer VAL microsoft COL price VAL 99.95	616
+COL title VAL norton antivirus mac 10.0 ( mac ) COL manufacturer VAL symantec COL price VAL 69.95	617
+COL title VAL pop-up stopper professional COL manufacturer VAL panicware COL price VAL 29.99	618
+COL title VAL ideasoft photo clip art 10 000 COL manufacturer VAL nova development COL price VAL 	619
+COL title VAL adobe premiere pro cs3 COL manufacturer VAL adobe COL price VAL 799.0	620
+COL title VAL entertainment partners budgeting ( mac ) COL manufacturer VAL entertainment partners COL price VAL 699.0	621
+COL title VAL emedia intermediate guitar method win/mac COL manufacturer VAL emedia COL price VAL 59.99	622
+COL title VAL super collapse 3 COL manufacturer VAL mumbo jumbo COL price VAL 19.99	623
+COL title VAL timbuktu remote control softwre 2 licenses for windows & mac COL manufacturer VAL netopia COL price VAL 199.99	624
+COL title VAL apple final cut studio 2 upgrade from final cut studio ( mac ) COL manufacturer VAL apple COL price VAL 499.0	625
+COL title VAL steinberg halion symphonic orchestra virtual instrument ( academic version ) COL manufacturer VAL steinberg COL price VAL 374.99	626
+COL title VAL reader rabbit kindergarten version 1.1 COL manufacturer VAL the learning company COL price VAL 9.99	627
+COL title VAL delorme topo usa mapping software 6.0 west region COL manufacturer VAL delorme COL price VAL 49.95	628
+COL title VAL soho labels & envelopes chronos l.c. COL manufacturer VAL chronos COL price VAL 29.99	629
+COL title VAL stopzilla 4.0 COL manufacturer VAL roxio COL price VAL 47.33	630
+COL title VAL h & r block taxcut 2006 premium federal + state with usb 256m flashdrive COL manufacturer VAL h & r block COL price VAL 39.99	631
+COL title VAL microsoft windows xp professional full version with sp2 COL manufacturer VAL microsoft COL price VAL 299.99	632
+COL title VAL sportsman 's double play COL manufacturer VAL masque COL price VAL 	633
+COL title VAL phase one capture one pro win/mac COL manufacturer VAL phase one COL price VAL 499.0	634
+COL title VAL family tree maker version 16 essentials COL manufacturer VAL encore COL price VAL 29.95	635
+COL title VAL mavis beacon teaches typing deluxe v17 COL manufacturer VAL encore software COL price VAL 39.99	636
+COL title VAL mah jong quest COL manufacturer VAL united developers COL price VAL 	637
+COL title VAL apple final cut studio 2 upgrade from final cut pro ( mac ) COL manufacturer VAL apple COL price VAL 699.0	638
+COL title VAL cosmic blobs : lab rat edition ( win & mac ) COL manufacturer VAL solidworks corporation COL price VAL 39.99	639
+COL title VAL alsoft diskwarrior : mac univeral binary COL manufacturer VAL alsoft COL price VAL 	640
+COL title VAL sims 2 nightlife expansion pack COL manufacturer VAL aspyr media COL price VAL 34.99	641
+COL title VAL adobe flash pro cs3 [ mac ] COL manufacturer VAL adobe COL price VAL 699.0	642
+COL title VAL 40 years of the avengers COL manufacturer VAL git corp COL price VAL 49.99	643
+COL title VAL microspot macdraft pe ( mac ) COL manufacturer VAL microspot ltd. COL price VAL 99.95	644
+COL title VAL microsoft virtual pc for mac 7.0 with windows xp home COL manufacturer VAL microsoft COL price VAL 219.99	645
+COL title VAL instant immersion german audio COL manufacturer VAL topics entertainment COL price VAL 	646
+COL title VAL readiris pro 11 corporate edition ( mac ) COL manufacturer VAL iris COL price VAL 499.95	647
+COL title VAL internet security barrier x4 antispam edition COL manufacturer VAL intego inc COL price VAL 	648
+COL title VAL mcafee total protection 2007 3 users COL manufacturer VAL mcafee COL price VAL 99.99	649
+COL title VAL symantec gateway security 300 series 10 10224341 ) COL manufacturer VAL symantec COL price VAL 349.0	650
+COL title VAL vuvideo anywhere for your ipod COL manufacturer VAL abacus software COL price VAL 29.95	651
+COL title VAL quickverse mac bible study 2007 white box COL manufacturer VAL findex COL price VAL 59.95	652
+COL title VAL 3d home architect home design deluxe version 9 COL manufacturer VAL encore COL price VAL 29.99	653
+COL title VAL acrobat professional 8 ( windows ) COL manufacturer VAL adobe COL price VAL 273.0	654
+COL title VAL art ( dvd ) ( pc & mac ) COL manufacturer VAL fogware publishing COL price VAL 29.99	655
+COL title VAL wanted : a wild western adventure COL manufacturer VAL dreamcatcher interactive COL price VAL 29.99	656
+COL title VAL emedia guitar basics COL manufacturer VAL emedia music COL price VAL 	657
+COL title VAL webexpress COL manufacturer VAL ingram micro COL price VAL 69.99	658
+COL title VAL more brain games COL manufacturer VAL csdc COL price VAL 9.99	659
+COL title VAL usa/world extreme landscapes bundle COL manufacturer VAL abacus COL price VAL 39.95	660
+COL title VAL adobe cs3 design standard macosx dvd COL manufacturer VAL adobe COL price VAL 399.0	661
+COL title VAL microsoft windows terminal server 2003 client additional license for users - 5 user COL manufacturer VAL microsoft COL price VAL 669.0	662
+COL title VAL snap ! hair styler studio COL manufacturer VAL topics entertainment COL price VAL 4.99	664
+COL title VAL photo go COL manufacturer VAL sony-media-software COL price VAL 24.95	665
+COL title VAL riding academy : jump & ride COL manufacturer VAL viva media COL price VAL 19.99	666
+COL title VAL toysight gold for isight : includes 15 games ( mac ) COL manufacturer VAL freeverse software COL price VAL 29.99	667
+COL title VAL ford racing 2 ( mac ) COL manufacturer VAL feral interactive COL price VAL 19.99	668
+COL title VAL printmaster gold v 17.0 COL manufacturer VAL encore software COL price VAL 19.99	669
+COL title VAL gorilla 4 standard COL manufacturer VAL jungle software COL price VAL 299.0	670
+COL title VAL sonic mega collection plus COL manufacturer VAL sega-of-america-inc . COL price VAL 19.99	671
+COL title VAL scholastic brain play : pre-kindergarten 1st grade COL manufacturer VAL topics entertainment COL price VAL 19.99	672
+COL title VAL bryce 6 COL manufacturer VAL re : launch COL price VAL 109.95	673
+COL title VAL school zone flash action addition/subtraction ( windows/macintosh ) COL manufacturer VAL school zone COL price VAL 12.99	674
+COL title VAL art explosion 600 000 images COL manufacturer VAL nova development COL price VAL 79.99	675
+COL title VAL lightroom 1 mlp retail ue 1u COL manufacturer VAL adobe COL price VAL 299.0	676
+COL title VAL mcsa/mcse self-paced training kit ( exams 70-292 & 70-296 ) upgrading your certi COL manufacturer VAL microsoft COL price VAL 70.0	677
+COL title VAL instant immersion german v2 .0 ( pc & mac ) COL manufacturer VAL topics entertainment COL price VAL 29.99	678
+COL title VAL datapilot cell phone data transfer suite universal COL manufacturer VAL susteen COL price VAL 79.99	680
+COL title VAL hospital tycoon for pc COL manufacturer VAL warner-new-media COL price VAL 29.99	681
+COL title VAL mozy 3.0 COL manufacturer VAL simply-put-software-llc COL price VAL 	682
+COL title VAL math advantage 2008 COL manufacturer VAL encore COL price VAL 39.99	683
+COL title VAL route 66 route canada ( french ) COL manufacturer VAL csdc COL price VAL 	684
+COL title VAL the sims 2 : open for business expansion pack COL manufacturer VAL aspyr media COL price VAL 34.99	685
+COL title VAL lego star wars ( dvd ) ( mac ) COL manufacturer VAL aspyr media COL price VAL 29.99	686
+COL title VAL grisoft avg anti-virus & anti-spyware 2 year subscription COL manufacturer VAL grisoft COL price VAL 39.95	687
+COL title VAL phase one capture one le COL manufacturer VAL phase one COL price VAL 	688
+COL title VAL family tree maker version 16 collectors edition COL manufacturer VAL encore software COL price VAL 	689
+COL title VAL sims 2 university expansion pack COL manufacturer VAL aspyr media COL price VAL 34.99	690
+COL title VAL dk amazing animals 1.1 COL manufacturer VAL global-software-publishing COL price VAL 9.99	691
+COL title VAL sunset boulevard COL manufacturer VAL yamaha COL price VAL 31.95	692
+COL title VAL kakuro puzzle addict unlimited edition COL manufacturer VAL global-software-publishing COL price VAL 9.99	693
+COL title VAL eovia carrara 5 pro COL manufacturer VAL eovia COL price VAL 	694
+COL title VAL global software smart steps 1st grade windows macintosh ) COL manufacturer VAL global software COL price VAL 	695
+COL title VAL wild photo effects ( jewel case ) COL manufacturer VAL on-hand-software COL price VAL 9.99	696
+COL title VAL amazing animals with zoofari games ( win/mac ) COL manufacturer VAL global software COL price VAL 	697
+COL title VAL morpheus photo animation suite COL manufacturer VAL smith-micro-software-inc . COL price VAL 49.99	698
+COL title VAL scrapbook for windows COL manufacturer VAL abacus COL price VAL 	699
+COL title VAL sims complete COL manufacturer VAL aspyr media COL price VAL 49.99	700
+COL title VAL airline tycoon deluxe COL manufacturer VAL topware interactive COL price VAL 19.99	701
+COL title VAL intellimover transfer your pc deluxe COL manufacturer VAL nova development COL price VAL 69.99	702
+COL title VAL dk exotic animals africa COL manufacturer VAL global-software-publishing COL price VAL 9.99	703
+COL title VAL ilisten with headset microphone 1.7 COL manufacturer VAL csdc COL price VAL 	704
+COL title VAL professional home design suite platinum COL manufacturer VAL punch ! software COL price VAL 99.95	705
+COL title VAL world of warcraft expansion : burning crusade COL manufacturer VAL blizzard entertainment COL price VAL 39.99	706
+COL title VAL sudoku puzzle addict COL manufacturer VAL global-software-publishing-north-america-inc COL price VAL 6.99	707
+COL title VAL alliance future combat COL manufacturer VAL strategy first COL price VAL 19.99	708
+COL title VAL dk smart steps 3rd grade COL manufacturer VAL global-software-publishing COL price VAL 9.99	709
+COL title VAL marine aquarium 2.0 ( mac ) COL manufacturer VAL encore COL price VAL 19.99	710
+COL title VAL family tree maker 2008 platinum COL manufacturer VAL encore COL price VAL 99.95	711
+COL title VAL spongebob squarepants typing 2008 win/mac COL manufacturer VAL encore software COL price VAL 19.95	712
+COL title VAL call of duty deluxe ( mac ) ( dvd ) COL manufacturer VAL aspyr media COL price VAL 39.99	713
+COL title VAL gsp crossword addict COL manufacturer VAL global-software-publishing-north-america-inc COL price VAL 9.99	714
+COL title VAL mike garson jazzical suite COL manufacturer VAL yamaha COL price VAL 34.95	715
+COL title VAL avid liquid pro COL manufacturer VAL avid technology COL price VAL 1942.6	716
+COL title VAL learn to play chess with fritz & chesster 2 ( mac ) COL manufacturer VAL viva media COL price VAL 29.99	717
+COL title VAL land before time : kindergarten COL manufacturer VAL brighter-minds-media-inc . COL price VAL 9.99	718
+COL title VAL best of card games ( jewel case ) COL manufacturer VAL on-hand-software COL price VAL 9.99	719
+COL title VAL backpack journalist COL manufacturer VAL honest technology COL price VAL 79.99	721
+COL title VAL steinberg nuendo 3 digital audio software COL manufacturer VAL steinberg COL price VAL 2499.0	722
+COL title VAL learn2 training for microsoft excel COL manufacturer VAL topics-entertainment-software - ( consignment ) COL price VAL 9.99	723
+COL title VAL simply put software got ta sing windows/macintosh ) COL manufacturer VAL simply-put-software COL price VAL 	724
+COL title VAL omniweb 5.0 COL manufacturer VAL omni group COL price VAL 29.99	725
+COL title VAL simply put software data eliminator COL manufacturer VAL simply-put-software COL price VAL 	726
+COL title VAL ibm viavoice advanced v. 10 COL manufacturer VAL nuance-communications-inc . COL price VAL 	727
+COL title VAL firstedge v 2.0 ( mac ) COL manufacturer VAL myob us COL price VAL 99.95	728
+COL title VAL doom 3 ( dvd ) ( mac ) COL manufacturer VAL aspyr media COL price VAL 39.99	729
+COL title VAL f/a -18 operation iraqi freedom COL manufacturer VAL graphics-simulations-corporation COL price VAL 39.99	730
+COL title VAL instant immersion italian platinum COL manufacturer VAL topics entertainment COL price VAL 129.99	731
+COL title VAL civilization iv warlords ( mac ) COL manufacturer VAL aspyr media COL price VAL 29.99	732
+COL title VAL clickart 1.2 million dvd 2006 by broderbund COL manufacturer VAL encore software COL price VAL 49.99	733
+COL title VAL middle school success essentials COL manufacturer VAL topics entertainment COL price VAL 29.99	734
+COL title VAL adventure workshop preschool ( jewel case ) COL manufacturer VAL encore software COL price VAL 29.99	735
+COL title VAL adobe creative suite cs3 production premium upgrade COL manufacturer VAL adobe COL price VAL 799.0	736
+COL title VAL adobe photoshop cs2 ( mac ) [ old version ] COL manufacturer VAL adobe COL price VAL 649.0	737
+COL title VAL print shop 22 deluxe COL manufacturer VAL encore COL price VAL 49.99	738
+COL title VAL iris readiris pro 11.0 ( mac ) COL manufacturer VAL i.r.i.s. COL price VAL 129.95	739
+COL title VAL chessmaster 9000 ( mac ) COL manufacturer VAL feral interactive COL price VAL 39.99	740
+COL title VAL illustrator cs3 13 mac ed 1u COL manufacturer VAL adobe-education-box COL price VAL 199.0	741
+COL title VAL star wars empire at war ( intel only macs ) COL manufacturer VAL aspyr media COL price VAL 49.99	742
+COL title VAL acrobat pro 8 mac ed 1u cd COL manufacturer VAL adobe-education-box COL price VAL 159.0	743
+COL title VAL mariner calc speadsheet ( mac ) COL manufacturer VAL mariner software COL price VAL 59.99	744
+COL title VAL diner dash ( pc & mac ) COL manufacturer VAL brighter minds COL price VAL 14.99	745
+COL title VAL marketcircle daylite v3 .0 ( mac ) COL manufacturer VAL csdc COL price VAL 149.0	746
+COL title VAL lego star wars ii : the original trilogy for mac COL manufacturer VAL feral interactive COL price VAL 39.99	747
+COL title VAL rollercoaster tycoon 3 : soaked COL manufacturer VAL aspyr media COL price VAL 19.99	748
+COL title VAL retrospect 6.0 desktop mac COL manufacturer VAL dantz COL price VAL 99.99	749
+COL title VAL microspot interiors ( mac ) COL manufacturer VAL microspot ltd. COL price VAL 99.95	750
+COL title VAL project x project management software COL manufacturer VAL marware COL price VAL 199.95	751
+COL title VAL age of empires iii COL manufacturer VAL destineer COL price VAL 49.99	752
+COL title VAL microsoft office & windows training professional COL manufacturer VAL topics entertainment COL price VAL 49.95	753
+COL title VAL internet cleanup 3.0 COL manufacturer VAL aladdin systems COL price VAL 29.99	754
+COL title VAL micromat protogo COL manufacturer VAL micromat COL price VAL 	755
+COL title VAL 44 years of the fantastic four COL manufacturer VAL git corp COL price VAL 49.99	756
+COL title VAL rise of nations : gold ( mac ) COL manufacturer VAL macsoft COL price VAL 49.99	757
+COL title VAL circus ponies-notebook 2.0 mac os COL manufacturer VAL csdc COL price VAL 49.95	758
+COL title VAL humorous greeting card factory COL manufacturer VAL nova development COL price VAL 29.99	759
+COL title VAL panda software antivirus & firewall 2008 windows COL manufacturer VAL panda software COL price VAL 	760
+COL title VAL microsoft visual studio team edition for software testers 2005 w/msdn premium renewal COL manufacturer VAL microsoft software COL price VAL 2309.0	761
+COL title VAL i transfer dvds 2 ipod edition ( win/mac ) COL manufacturer VAL me-too-software COL price VAL 29.99	762
+COL title VAL station access collection COL manufacturer VAL sony-creative-software COL price VAL 29.99	763
+COL title VAL agatha christie : and then there were none COL manufacturer VAL dreamcatcher interactive COL price VAL 29.99	764
+COL title VAL unreal tournament 2004 dvd-rom ) COL manufacturer VAL atari COL price VAL 29.99	765
+COL title VAL brothers in arms : road to hill 30 ( dvd-rom ) COL manufacturer VAL ubi soft COL price VAL 19.99	766
+COL title VAL command and conquer generals deluxe dvd-rom ( mac ) COL manufacturer VAL aspyr media COL price VAL 59.99	767
+COL title VAL battlefield 1942 : deluxe edition COL manufacturer VAL electronic arts COL price VAL 29.99	768
+COL title VAL power director 3 COL manufacturer VAL avanquest-publishing-usa-inc . COL price VAL 79.95	769
+COL title VAL cosmi rom03558 print perfect clip art deluxe COL manufacturer VAL cosmi COL price VAL 	770
+COL title VAL e frontier poser 6 collector 's edition with volume 1 figure pack ( mac ) COL manufacturer VAL curious-labs-inc . COL price VAL 279.99	771
+COL title VAL adobe illustrator cs3 [ mac ] COL manufacturer VAL adobe COL price VAL 599.0	772
+COL title VAL microsoft office mac 2004 english 3pk dsp 731-01163 ) COL manufacturer VAL microsoft corporation COL price VAL 	773
+COL title VAL adobe software acrobat pro upgrd pro-pro mac ( adbcd01798mc ) COL manufacturer VAL adobe software COL price VAL 273.0	774
+COL title VAL quake 4 ( mac ) COL manufacturer VAL aspyr media COL price VAL 39.99	775
+COL title VAL micromat techtool pro 4 ( mac ) COL manufacturer VAL micromat COL price VAL 99.99	776
+COL title VAL varmint hunter ( jewel case ) COL manufacturer VAL encore COL price VAL 9.99	777
+COL title VAL hoyle casino 2007 COL manufacturer VAL encore COL price VAL 19.95	778
+COL title VAL 3d home architect landscape v. 8 by encore software COL manufacturer VAL encore software COL price VAL 39.99	779
+COL title VAL hoyle backgammon jc COL manufacturer VAL encore COL price VAL 7.99	780
+COL title VAL microsoft excel 2004 ( mac ) COL manufacturer VAL microsoft COL price VAL 229.99	781
+COL title VAL corel dvd moviefactory 6.0 COL manufacturer VAL corel COL price VAL 49.99	783
+COL title VAL axis & allies collector 's edition COL manufacturer VAL encore COL price VAL 19.99	784
+COL title VAL jewels of cleopatra COL manufacturer VAL encore software COL price VAL 19.95	785
+COL title VAL jeopardy! deluxe COL manufacturer VAL encore COL price VAL 19.99	786
+COL title VAL hoyle 4-pack 2006 COL manufacturer VAL encore software COL price VAL 19.95	787
+COL title VAL hoyle puzzle & board games COL manufacturer VAL encore software COL price VAL 19.95	788
+COL title VAL hoyle mahjongg ( jewel case ) COL manufacturer VAL encore COL price VAL 9.99	789
+COL title VAL scrabble champion edition COL manufacturer VAL encore COL price VAL 19.95	790
+COL title VAL hoyle kids ' games jc COL manufacturer VAL encore COL price VAL 9.99	791
+COL title VAL cyberchase adventures : carnival chaos and casablanca quest COL manufacturer VAL brighter-minds-media-inc . COL price VAL 19.99	792
+COL title VAL hoyle south beach solitaire COL manufacturer VAL encore COL price VAL 9.99	793
+COL title VAL monopoly 3 COL manufacturer VAL encore COL price VAL 9.99	794
+COL title VAL ca arcserve bkup r11 .5 win client vss software snap-shot - prod only COL manufacturer VAL computer associates COL price VAL 	795
+COL title VAL ulead videostudio 11 COL manufacturer VAL corel COL price VAL 89.99	796
+COL title VAL zero-g pro pack for garageband ( appleloops ) COL manufacturer VAL zero-g COL price VAL 169.95	797
+COL title VAL hoyle solitaire ( jewel case ) COL manufacturer VAL encore COL price VAL 9.99	798
+COL title VAL hp dss software v. 4.0 complete package t1936aa ua0 ) COL manufacturer VAL hewlett-packard - ( consumables ) COL price VAL 630.36	799
+COL title VAL calendar creator 10 COL manufacturer VAL broderbund COL price VAL 29.99	800
+COL title VAL ulead systems dvd workshop 2 COL manufacturer VAL ulead systems COL price VAL 494.99	801
+COL title VAL final draft 7/syd field 's screenwriting workshop dvd bundle COL manufacturer VAL final draft COL price VAL 249.99	802
+COL title VAL adobe creative suite cs3 master collection [ mac ] COL manufacturer VAL adobe COL price VAL 2499.0	803
+COL title VAL digidesign music production toolkit ( pro tools le ) COL manufacturer VAL digidesign COL price VAL 495.0	804
+COL title VAL hoyle texas hold 'em poker ( jewel case ) COL manufacturer VAL encore COL price VAL 9.99	805
+COL title VAL chicken hunter : license to grill the great poultry race COL manufacturer VAL encore COL price VAL 9.99	806
+COL title VAL media studio for psp standard editon COL manufacturer VAL encore software COL price VAL 29.99	807
+COL title VAL 3d home architect landscape designer v8 COL manufacturer VAL encore software COL price VAL 29.99	808
+COL title VAL hoyle : classic collection 2006 COL manufacturer VAL encore COL price VAL 19.99	809
+COL title VAL monopoly here & now COL manufacturer VAL encore COL price VAL 19.95	810
+COL title VAL chicken hunter wanted jc COL manufacturer VAL encore COL price VAL 9.99	811
+COL title VAL extensis smartscale 1-user pxe-11433 ) COL manufacturer VAL extensis corporation COL price VAL 	812
+COL title VAL notetaker 1.5 COL manufacturer VAL aquaminds COL price VAL 69.99	813
+COL title VAL business plan writer deluxe 8.0 2005 COL manufacturer VAL nova development COL price VAL 99.99	814
+COL title VAL extensis intellihance pro 4.x win/mac COL manufacturer VAL extensis corporation COL price VAL 199.99	815
+COL title VAL microsoft visual studio team suite 2005 with msdn premium ( cd & dvd ) COL manufacturer VAL microsoft COL price VAL 10949.0	816
+COL title VAL macjournal v4 ( mac ) COL manufacturer VAL csdc COL price VAL 39.95	817
+COL title VAL canopus 77010158100 let 's edit COL manufacturer VAL canopus COL price VAL 99.0	818
+COL title VAL mavis beacon 17 standard COL manufacturer VAL encore software COL price VAL 19.95	819
+COL title VAL riverdeep adventure workshop 4th-6th grade 8th edition COL manufacturer VAL riverdeep COL price VAL 	820
+COL title VAL adventure workshop preschool-1st grade 8th edition COL manufacturer VAL encore COL price VAL 19.99	821
+COL title VAL sharks 2.0 ( pc & mac ) COL manufacturer VAL e-b-c-marketing COL price VAL 19.99	822
+COL title VAL microsoft word 2004 upgrade ( mac ) COL manufacturer VAL microsoft COL price VAL 109.99	823
+COL title VAL vegas 6 for pc COL manufacturer VAL sony-pictures-home-entertainment COL price VAL 599.99	824
+COL title VAL sony vegas 6 COL manufacturer VAL sony-pictures-digital-entertainment COL price VAL 599.95	825
+COL title VAL motu digital performer 5 digital audio software ( mac only ) COL manufacturer VAL motu COL price VAL 795.0	826
+COL title VAL m-audio pro tools m-powered 7.3 m-audio compatible world-class production software COL manufacturer VAL m-audio COL price VAL 299.99	827
+COL title VAL pinnacle mobile media converter COL manufacturer VAL pinnacle COL price VAL 29.99	828
+COL title VAL avid liquid vs 7 software COL manufacturer VAL avid technology COL price VAL 888.75	829
+COL title VAL acad corel painter x pc/mac COL manufacturer VAL corel COL price VAL 155.22	830
+COL title VAL rainbow fish and the whale ( win/mac ) COL manufacturer VAL global-software-publishing COL price VAL 9.99	831
+COL title VAL global software smart steps 2nd grade windows macintosh ) COL manufacturer VAL global software COL price VAL 	832
+COL title VAL punch ! viacad 2d/3d COL manufacturer VAL punch ! software COL price VAL 99.0	833
+COL title VAL vegas 7 + dvd/soundforge8bundl COL manufacturer VAL sony media COL price VAL 722.0	834
+COL title VAL handmark oxford american desk dictionary and thesaurus COL manufacturer VAL handmark inc. . COL price VAL 	835
+COL title VAL i love the usa COL manufacturer VAL global-software-publishing COL price VAL 9.99	836
+COL title VAL adobe photoshop cs3 extended upgrade [ mac ] COL manufacturer VAL adobe COL price VAL 349.0	837
+COL title VAL computrace lojack for laptops 3 year license ( mac ) COL manufacturer VAL absolute software COL price VAL 99.95	838
+COL title VAL adobe photoshop cs3 extended COL manufacturer VAL adobe COL price VAL 999.0	839
+COL title VAL digital video and audio production book for vegas 7 + dvd COL manufacturer VAL sony-pictures-digital-entertainment COL price VAL 49.35	840
+COL title VAL studio movieboard plus pci hardware COL manufacturer VAL pinnacle COL price VAL 251.55	841
+COL title VAL now up-to-date & contact v5 .0 ( mac ) COL manufacturer VAL now software COL price VAL 	844
+COL title VAL iplaymusic beginner guitar lessons for the mac and ipod COL manufacturer VAL iplaymusic COL price VAL 49.99	845
+COL title VAL discrete drums : vol .1 COL manufacturer VAL sony-media-software COL price VAL 59.95	846
+COL title VAL vpn client software 5 users COL manufacturer VAL d-link systems inc. . COL price VAL 	847
+COL title VAL safekeeper plus COL manufacturer VAL bling software COL price VAL 	848
+COL title VAL punch ! professional home design platinum v10 COL manufacturer VAL punch ! software COL price VAL 99.0	851
+COL title VAL cinescore professional soundtrack edition COL manufacturer VAL sony-pictures-digital-entertainment COL price VAL 249.95	852
+COL title VAL onone essentials for adobe photoshop elements COL manufacturer VAL onone software COL price VAL 59.95	853
+COL title VAL bookkeeper 2008 COL manufacturer VAL individual software COL price VAL 39.99	854
+COL title VAL micromat podlock ( mac ) COL manufacturer VAL micromat COL price VAL 69.0	855
+COL title VAL videostudio 11 plus COL manufacturer VAL corel COL price VAL 	856
+COL title VAL cakewalk sonar home studio 6 xl COL manufacturer VAL cakewalk COL price VAL 209.0	857
+COL title VAL microsoft onenote 2007 upgrade COL manufacturer VAL microsoft COL price VAL 79.95	858
+COL title VAL onone software intellihance pro 4.1 COL manufacturer VAL onone software COL price VAL 	859
+COL title VAL apple ilife '06 family pack ( mac dvd ) [ older version ] COL manufacturer VAL apple computer COL price VAL 99.0	860
+COL title VAL creating keepsakes scrapbook designer version 2 platinum COL manufacturer VAL riverdeep-learning-company COL price VAL 39.99	861
+COL title VAL cakewalk project5 version 2 COL manufacturer VAL cakewalk COL price VAL 259.0	862
+COL title VAL cubase se3 educational edition COL manufacturer VAL steinberg COL price VAL 	863
+COL title VAL vocabulary puzzles grade 1 COL manufacturer VAL school zone COL price VAL 14.95	864
+COL title VAL cakewalk sonar home studio 6 COL manufacturer VAL cakewalk COL price VAL 139.0	865
+COL title VAL system care professional COL manufacturer VAL avanquest COL price VAL 49.95	866
+COL title VAL punch ! ultimate deck and landscape COL manufacturer VAL punch ! software COL price VAL 29.0	867
+COL title VAL live bingo COL manufacturer VAL imagination-international-corp COL price VAL 	868
+COL title VAL upgrade crystal reports 11 pro french COL manufacturer VAL business objects COL price VAL 479.78	869
+COL title VAL apple garageband jam pack : rhythm section COL manufacturer VAL apple COL price VAL 99.0	871
+COL title VAL quickbooks point-of-sale pro with hardware bundle 6.0 COL manufacturer VAL intuit COL price VAL 1749.95	873
+COL title VAL peachtree by sage premium accounting for manufacturing 2007 multi user ( up to 5 users ) COL manufacturer VAL sage software COL price VAL 1199.99	874
+COL title VAL century software tinyterm plus v. 4.0 complete product COL manufacturer VAL century software COL price VAL 	875
+COL title VAL adobe soundbooth cs3 [ mac ] COL manufacturer VAL adobe COL price VAL 199.0	876
+COL title VAL timbuktu remote control softwre 1 license for mac os COL manufacturer VAL netopia COL price VAL 	877
+COL title VAL poser figure artist COL manufacturer VAL efrontier COL price VAL 99.99	878
+COL title VAL sony sound forge 9 boxed upgrade COL manufacturer VAL sony media COL price VAL 232.05	879
+COL title VAL super granny 3 COL manufacturer VAL encore software COL price VAL 19.99	880
+COL title VAL the print shop 22 deluxe sb cs by the print shop COL manufacturer VAL encore software COL price VAL 49.95	881
+COL title VAL marine aquarium + sharks COL manufacturer VAL encore software COL price VAL 9.95	882
+COL title VAL adobe creative suite cs3 production premium COL manufacturer VAL adobe COL price VAL 1699.0	883
+COL title VAL checkmark multiledger COL manufacturer VAL checkmark software COL price VAL 399.0	884
+COL title VAL ipswitch inc ws ftp pro 9 sdk w / ws ftp pro wd-1000-0900 ) COL manufacturer VAL ipswitch inc COL price VAL 395.0	885
+COL title VAL 123 movies 2 ipod w / av cables umd size COL manufacturer VAL bling COL price VAL 29.99	886
+COL title VAL hoyle bridge club COL manufacturer VAL encore COL price VAL 29.95	887
+COL title VAL microsoft oem 3pk xp home edition sp2 n09-01624 ) COL manufacturer VAL microsoft corporation COL price VAL 	888
+COL title VAL scrabble champion edition COL manufacturer VAL encore COL price VAL 19.95	889
+COL title VAL instant immersion japanese deluxe 2.0 COL manufacturer VAL topics entertainment COL price VAL 39.99	890
+COL title VAL ilisten ( mac ) COL manufacturer VAL macspeech inc. COL price VAL 99.99	891
+COL title VAL adobe premiere pro cs3 COL manufacturer VAL adobe COL price VAL 799.0	892
+COL title VAL starship troopers/first to fight bundle COL manufacturer VAL destineer COL price VAL 19.95	893
+COL title VAL hoyle card games 2007 COL manufacturer VAL encore software COL price VAL 19.99	895
+COL title VAL reel deal slots mystic forest COL manufacturer VAL phantom efx COL price VAL 19.95	896
+COL title VAL adobe creative suite cs3 production premium upsell COL manufacturer VAL adobe COL price VAL 1199.0	897
+COL title VAL onone genuine fractals 5 full 1u COL manufacturer VAL onone software COL price VAL 159.95	899
+COL title VAL sims 2 seasons expansion pack COL manufacturer VAL aspyr media COL price VAL 34.99	900
+COL title VAL partition commander 10 COL manufacturer VAL avanquest COL price VAL 49.95	901
+COL title VAL sony sound effects series vol 1 through 10 COL manufacturer VAL sony-pictures-digital-entertainment COL price VAL 	902
+COL title VAL mavis beacon teaches typing 17 standard COL manufacturer VAL encore software COL price VAL 19.99	903
+COL title VAL vault360 combo COL manufacturer VAL navarre ( software ) COL price VAL 29.95	904
+COL title VAL efrontier anime studio pro ( win/mac ) COL manufacturer VAL efrontier COL price VAL 199.99	905
+COL title VAL monopoly here & now COL manufacturer VAL encore COL price VAL 19.95	906
+COL title VAL hoyle card games ( jewel case ) COL manufacturer VAL encore software COL price VAL 9.99	907
+COL title VAL oxford world encyclopedia COL manufacturer VAL tri synergy COL price VAL 19.99	909
+COL title VAL adobe creative suite cs3 master collection upgrade [ mac ] COL manufacturer VAL adobe COL price VAL 1399.0	910
+COL title VAL network now ! pro by encore COL manufacturer VAL encore software COL price VAL 39.99	912
+COL title VAL starry night galaxy explorer ( pc & mac ) COL manufacturer VAL imaginova COL price VAL 9.99	913
+COL title VAL hasbro classic collection 2006 ) COL manufacturer VAL encore COL price VAL 19.99	914
+COL title VAL professor fuji 's sudoku ( jewel case ) COL manufacturer VAL encore software COL price VAL 9.99	916
+COL title VAL elementary advantage 2008 COL manufacturer VAL encore software COL price VAL 	917
+COL title VAL mobi recam camera monitoring and notification software COL manufacturer VAL mobi COL price VAL 119.99	920
+COL title VAL the little mermaid/beauty and the beast COL manufacturer VAL yamaha COL price VAL 34.95	921
+COL title VAL adobe illustrator cs3 upgrade [ mac ] COL manufacturer VAL adobe COL price VAL 199.0	923
+COL title VAL hoyle casino ( 2007 ) COL manufacturer VAL encore COL price VAL 19.99	924
+COL title VAL instant play guitar deluxe v2 . COL manufacturer VAL topics entertainment COL price VAL 39.48	925
+COL title VAL pc hoyle jewels : swap & drop it COL manufacturer VAL encore software COL price VAL 9.99	926
+COL title VAL gorilla 4 student COL manufacturer VAL jungle software COL price VAL 199.0	927
+COL title VAL your desktop post office for pc COL manufacturer VAL stamps.com COL price VAL 14.99	929
+COL title VAL adobe contribute cs3 [ mac ] COL manufacturer VAL adobe COL price VAL 149.0	930
+COL title VAL registry mechanic 5.x pc system repair COL manufacturer VAL pc tools COL price VAL 29.95	932
+COL title VAL axis & allies ( jewel case ) COL manufacturer VAL encore COL price VAL 9.99	933
+COL title VAL panda antivirus 2007 COL manufacturer VAL panda software COL price VAL 29.95	934
+COL title VAL corel dvd moviefactory 6.0 plus COL manufacturer VAL corel COL price VAL 79.99	935
+COL title VAL symc backup exec sbs std 11d win small business server standard COL manufacturer VAL symantec COL price VAL 811.21	937
+COL title VAL typing instructor deluxe ( jewel case ) COL manufacturer VAL individual software COL price VAL 9.99	938
+COL title VAL bias peak pro 5 macintosh ) COL manufacturer VAL bias COL price VAL 599.0	939
+COL title VAL freestyle street basketball COL manufacturer VAL sierra online COL price VAL 19.99	940
+COL title VAL webroot spy sweeper with antivirus family edition 3 pcs COL manufacturer VAL webroot software COL price VAL 49.95	941
+COL title VAL my guitar COL manufacturer VAL emedia COL price VAL 29.95	942
+COL title VAL rome total war gold edition COL manufacturer VAL sega-of-america-inc . COL price VAL 19.99	943
+COL title VAL registry mechanic by encore software COL manufacturer VAL encore software COL price VAL 46.52	944
+COL title VAL classification & ecology ( win/mac ) ( jewel case ) COL manufacturer VAL fogware publishing COL price VAL 9.99	945
+COL title VAL the print shop 21 deluxe by broderbund COL manufacturer VAL encore software COL price VAL 	946
+COL title VAL britannica deluxe COL manufacturer VAL avanquest software COL price VAL 29.95	947
+COL title VAL creating keepsakes scrapbook platinum v. 3 sb cs by riverdeep COL manufacturer VAL encore software COL price VAL 39.99	948
+COL title VAL leave the lights on ( mac ) COL manufacturer VAL aspyr media COL price VAL 9.99	949
+COL title VAL apple logic pro 7.2 upgrade COL manufacturer VAL apple COL price VAL 299.0	950
+COL title VAL microspot macdraft professional ( mac ) COL manufacturer VAL microspot ltd. COL price VAL 349.99	951
+COL title VAL nero 7 ultra edition enhanced COL manufacturer VAL nero inc. COL price VAL 99.99	952
+COL title VAL digital vault COL manufacturer VAL stompsoft inc. COL price VAL 29.99	953
+COL title VAL audition 2 win ed ue 1u COL manufacturer VAL adobe-education-box COL price VAL 149.0	954
+COL title VAL turbocad mac 3d for mac COL manufacturer VAL imsi COL price VAL 249.99	955
+COL title VAL apple logic pro 7.2 retail COL manufacturer VAL apple COL price VAL 999.0	956
+COL title VAL peachtree by sage premium accounting 2007 accountants ' edition COL manufacturer VAL sage software COL price VAL 499.99	957
+COL title VAL onone plug-in suite 3 for adobe photoshop COL manufacturer VAL onone software COL price VAL 399.95	958
+COL title VAL stompsoft digital file shredder pro COL manufacturer VAL stompsoft inc. COL price VAL 24.99	959
+COL title VAL make music finale 2008 academic COL manufacturer VAL emedia COL price VAL 350.0	960
+COL title VAL vegas movie studiodvd +8 plat COL manufacturer VAL sony media COL price VAL 129.95	961
+COL title VAL gods & heroes : rome rising COL manufacturer VAL sony-online-entertainment COL price VAL 49.99	962
+COL title VAL synet pc sharing kit ( w/17ft usb ext.cable ) COL manufacturer VAL synet-electronics-inc . COL price VAL 	963
+COL title VAL pinnacle mobile media organizer COL manufacturer VAL pinnacle COL price VAL 49.99	965
+COL title VAL gmp data rescue license 24300 ) COL manufacturer VAL global-marketing-partners COL price VAL 349.0	966
+COL title VAL mavis beacon teaches typing 16 COL manufacturer VAL broderbund COL price VAL 19.99	967
+COL title VAL intervideo windvd 8 gold COL manufacturer VAL intervideo COL price VAL 49.99	968
+COL title VAL talk now ! learn afrikaans beginning level COL manufacturer VAL eurotalk COL price VAL 29.99	969
+COL title VAL computrace lojack for laptops : 3 year subscription COL manufacturer VAL absolute software COL price VAL 99.99	970
+COL title VAL instant immersion ingles audio deluxe COL manufacturer VAL topics entertainment COL price VAL 	971
+COL title VAL i copy dvd 's 2 COL manufacturer VAL me-too-software COL price VAL 49.99	972
+COL title VAL computrace lojack for laptops : 1 year subscription COL manufacturer VAL absolute software COL price VAL 49.99	973
+COL title VAL sony vegas movie studio + dvd 8 platinum edition COL manufacturer VAL sony media COL price VAL 129.95	974
+COL title VAL computrace lojack for laptops 1 year license ( mac ) COL manufacturer VAL absolute software COL price VAL 49.95	975
+COL title VAL iaudioize magnetic time for pc and mac COL manufacturer VAL sos aggregation COL price VAL 39.99	976
+COL title VAL safekeeper plus COL manufacturer VAL bling COL price VAL 39.99	977
+COL title VAL didi & ditto : kindergarten win/mac COL manufacturer VAL kutoka COL price VAL 19.99	978
+COL title VAL logic express 7 COL manufacturer VAL apple computer COL price VAL 299.0	979
+COL title VAL travelogue 360 : paris COL manufacturer VAL aspyr media COL price VAL 29.99	980
+COL title VAL instant immersion italian v2 .0 ( large box ) COL manufacturer VAL topics entertainment COL price VAL 29.99	981
+COL title VAL power on now up to date & contact windows COL manufacturer VAL power-on-software COL price VAL 129.99	982
+COL title VAL cook 'n low fat COL manufacturer VAL dvo enterprises COL price VAL 19.99	983
+COL title VAL serious magic visual communicator 2.0 web COL manufacturer VAL serious magic COL price VAL 199.99	984
+COL title VAL best of slots 2 ( jewel case ) COL manufacturer VAL masque publishing COL price VAL 9.99	985
+COL title VAL cubase 4 competitive crossgrade COL manufacturer VAL steinberg ( yamaha ) COL price VAL 549.99	986
+COL title VAL casual games pack COL manufacturer VAL egames COL price VAL 19.99	987
+COL title VAL eovia carrara 4 pro win/mac COL manufacturer VAL eovia corporation COL price VAL 599.99	988
+COL title VAL i spy fantasy v. 2 with i spy book & mini cd COL manufacturer VAL topics entertainment COL price VAL 29.99	989
+COL title VAL power production storyboard artist 4 COL manufacturer VAL power production COL price VAL 	990
+COL title VAL instant immersion spanish audio deluxe COL manufacturer VAL topics entertainment COL price VAL 39.95	991
+COL title VAL final draft 7 professional scriptwriting win/mac COL manufacturer VAL final draft COL price VAL 289.99	992
+COL title VAL quickbooks customer manager 2.5 COL manufacturer VAL intuit COL price VAL 79.95	993
+COL title VAL irispen express translator COL manufacturer VAL iris COL price VAL 149.99	994
+COL title VAL apple remote desktop 3 unlim managed systems COL manufacturer VAL apple COL price VAL 499.0	995
+COL title VAL time money & fractions grades 1-2 COL manufacturer VAL school zone COL price VAL 9.99	996
+COL title VAL mac os x server v10 .4.7 unlimited client COL manufacturer VAL apple COL price VAL 999.0	997
+COL title VAL reader rabbit playtime for baby and toddler COL manufacturer VAL the learning company COL price VAL 19.99	998
+COL title VAL spy sweeper w/antivirus family edition COL manufacturer VAL webroot software COL price VAL 49.95	999
+COL title VAL dance praise with dance pad ( win/mac ) COL manufacturer VAL digital praise COL price VAL 39.99	1000
+COL title VAL printmaster 17 platinum by encore software COL manufacturer VAL encore software COL price VAL 39.99	1001
+COL title VAL genuine fractals genuine fractals print pro 1u COL manufacturer VAL onone software COL price VAL 299.95	1002
+COL title VAL logic pro 6 COL manufacturer VAL apple COL price VAL 999.99	1003
+COL title VAL professor teaches excel & word COL manufacturer VAL individual software COL price VAL 19.99	1004
+COL title VAL sibelius 4 educational edition COL manufacturer VAL sibelius-software-ltd . COL price VAL 329.0	1005
+COL title VAL terror strike COL manufacturer VAL encore COL price VAL 19.95	1006
+COL title VAL wisdom of the bible holy land edition COL manufacturer VAL hip interactive COL price VAL 29.99	1007
+COL title VAL norton internet security 2008 10 user COL manufacturer VAL symantec COL price VAL 199.99	1008
+COL title VAL test and improve your memory ( dvd box ) COL manufacturer VAL tri synergy COL price VAL 29.99	1009
+COL title VAL roxio easy media creator 9 COL manufacturer VAL roxio COL price VAL 99.95	1010
+COL title VAL logic pro 6 upgrade from logic platinum/gold 5 & 6 COL manufacturer VAL apple COL price VAL 199.99	1011
+COL title VAL reel deal slots 2.0 for pc COL manufacturer VAL phantom efx COL price VAL 9.99	1012
+COL title VAL marine aquarium 2.0 ( pc & mac ) COL manufacturer VAL encore COL price VAL 29.99	1013
+COL title VAL elementary advantage 2008 COL manufacturer VAL encore COL price VAL 39.99	1014
+COL title VAL finale songwriter 2007 COL manufacturer VAL finale COL price VAL 49.95	1015
+COL title VAL math success deluxe 2007 COL manufacturer VAL topics entertainment COL price VAL 39.99	1016
+COL title VAL language lab german COL manufacturer VAL topics entertainment COL price VAL 39.99	1017
+COL title VAL wheel of fortune deluxe COL manufacturer VAL encore COL price VAL 19.99	1018
+COL title VAL neuratron photoscore professional 4 COL manufacturer VAL sibelius-software-ltd . COL price VAL 199.99	1019
+COL title VAL elementary school advantage 2007 COL manufacturer VAL encore software COL price VAL 29.99	1020
+COL title VAL resumemaker professional 12.0 COL manufacturer VAL individual software COL price VAL 29.99	1021
+COL title VAL panda internet security 2007 3-user COL manufacturer VAL panda software COL price VAL 69.95	1022
+COL title VAL aquarium 3 in 1 collection limited edition for win/mac COL manufacturer VAL encore software COL price VAL 19.99	1023
+COL title VAL punch super home suite 3.0 COL manufacturer VAL punch ! software COL price VAL 49.99	1024
+COL title VAL e-mu em8669 modern symphonic orchestra COL manufacturer VAL e-mu COL price VAL 499.99	1025
+COL title VAL final draft scriptwriter 's suite [ final draft 7 & final draft av2 ] COL manufacturer VAL final draft COL price VAL 349.99	1026
+COL title VAL makemusic finale 2007 win/mac COL manufacturer VAL emedia COL price VAL 600.0	1028
+COL title VAL westward COL manufacturer VAL encore software COL price VAL 19.99	1029
+COL title VAL final draft av 2.5 win/mac COL manufacturer VAL final draft COL price VAL 199.99	1030
+COL title VAL singleclick network now ! pro COL manufacturer VAL encore software COL price VAL 39.99	1031
+COL title VAL finale allegro 2007 COL manufacturer VAL finale COL price VAL 199.95	1032
+COL title VAL pc professor fuji 's kakuro COL manufacturer VAL encore software COL price VAL 9.99	1033
+COL title VAL marine aquarium 2.5 virtual undersea paradise win/mac COL manufacturer VAL encore software COL price VAL 19.99	1034
+COL title VAL riverdeep spongebob squarepants typing fun COL manufacturer VAL riverdeep COL price VAL 	1035
+COL title VAL brain food games : cranium collection 2006 COL manufacturer VAL encore COL price VAL 19.95	1036
+COL title VAL brain food games : cranium collection 2006 COL manufacturer VAL encore COL price VAL 19.95	1037
+COL title VAL printmaster 17 gold by encore software COL manufacturer VAL encore software COL price VAL 30.66	1038
+COL title VAL who wants to be a millionaire ? COL manufacturer VAL encore COL price VAL 9.95	1039
+COL title VAL encore the big box of art 410 000 460001 ) COL manufacturer VAL encore software COL price VAL 19.99	1040
+COL title VAL genuine fractals print pro 4.1 sharpener pro 2.0 COL manufacturer VAL onone software COL price VAL 	1042
+COL title VAL monopoly tycoon COL manufacturer VAL encore COL price VAL 9.99	1043
+COL title VAL hoyle puzzle & board games 2007 COL manufacturer VAL encore software COL price VAL 19.99	1044
+COL title VAL jackpot tycoon ( jewel case ) COL manufacturer VAL encore COL price VAL 9.99	1045
+COL title VAL riverdeep kissing canines COL manufacturer VAL riverdeep COL price VAL 	1046
+COL title VAL game of life jc COL manufacturer VAL encore COL price VAL 9.99	1047
+COL title VAL monopoly platinum edition COL manufacturer VAL encore COL price VAL 19.99	1048
+COL title VAL home & business lawyer dlx 2006 by broderbund COL manufacturer VAL encore software COL price VAL 	1049
+COL title VAL middle school advantage 2008 COL manufacturer VAL encore COL price VAL 39.99	1050
+COL title VAL tlc clue finders math learning system sb by riverdeep COL manufacturer VAL encore software COL price VAL 19.99	1051
+COL title VAL reader rabbit learn to read phonics pre kindergarten COL manufacturer VAL the learning company COL price VAL 9.99	1052
+COL title VAL high school advantage 2008 COL manufacturer VAL encore COL price VAL 39.99	1053
+COL title VAL professor fujis sudoku deluxe by encore COL manufacturer VAL encore software COL price VAL 19.99	1054
+COL title VAL high school advantage 2007 COL manufacturer VAL encore software COL price VAL 29.95	1055
+COL title VAL the print shop 21 standard by broderbund COL manufacturer VAL encore software COL price VAL 	1056
+COL title VAL quarkxpress 7 for mac/win . COL manufacturer VAL quark COL price VAL 1289.42	1057
+COL title VAL pitstop pro 7.0 upgr 6.x or higher COL manufacturer VAL enfocus software COL price VAL 199.0	1058
+COL title VAL quarkxpress 7 windows & macintosh ) COL manufacturer VAL quark COL price VAL 899.0	1059
+COL title VAL web.com site builder & hosting suite sb by web.com COL manufacturer VAL encore software COL price VAL 49.99	1060
+COL title VAL datawatch monarch v7 ntwk-starter cd most 8u fpm32c070-a08n ) COL manufacturer VAL datawatch COL price VAL 	1061
+COL title VAL pc tools spyware doctor 2007 sb cs by pc tools COL manufacturer VAL encore software COL price VAL 29.99	1062
+COL title VAL lotus dev . ibm informix online personal edition media bb0d4na ) COL manufacturer VAL lotus development corp COL price VAL 	1063
+COL title VAL adventure workshop 4th-6th grade 7th ed sb cs by riverdeep COL manufacturer VAL encore software COL price VAL 19.99	1064
+COL title VAL ares rising COL manufacturer VAL interplay COL price VAL 69.95	1065
+COL title VAL the print shop design suite pro ed sb cs by the print shop COL manufacturer VAL encore software COL price VAL 199.99	1066
+COL title VAL evergirl COL manufacturer VAL thq COL price VAL 14.99	1067
+COL title VAL the print shop elements : labels & logos sb cs by the print shop COL manufacturer VAL encore software COL price VAL 	1068
+COL title VAL hasbro family game collection 2006 COL manufacturer VAL encore software COL price VAL 19.99	1069
+COL title VAL windows xp pro nx7400 o/s COL manufacturer VAL hewlett packard COL price VAL 	1071
+COL title VAL marine aquarium & goldfish screen saver by encore software COL manufacturer VAL encore software COL price VAL 	1072
+COL title VAL backyard sports backyard basketball and backyard football COL manufacturer VAL humongous entertainment COL price VAL 19.99	1073
+COL title VAL family tree maker version 16 collectors edition sb cs COL manufacturer VAL encore software COL price VAL 99.99	1074
+COL title VAL modeless liquid ledger personal finance software ( mac ) COL manufacturer VAL csdc COL price VAL 79.99	1075
+COL title VAL the print shop 22 sb cs by the print shop COL manufacturer VAL encore software COL price VAL 	1076
+COL title VAL 3d home architect home v. 8 by encore software COL manufacturer VAL encore software COL price VAL 39.99	1078
+COL title VAL tropico 2 : pirate cove ( mac ) COL manufacturer VAL destineer inc COL price VAL 29.99	1079
+COL title VAL adventure workshop 4th-6th grade 7th edition COL manufacturer VAL encore software COL price VAL 19.99	1080
+COL title VAL stuffit deluxe v 10.0 ( mac ) COL manufacturer VAL smith-micro-software COL price VAL 79.99	1081
+COL title VAL pitstop pro 7.0 upgr 5.x or below COL manufacturer VAL enfocus software COL price VAL 299.0	1082
+COL title VAL nova greeting card factory ( mac ) COL manufacturer VAL nova development COL price VAL 49.99	1083
+COL title VAL riverdeep the print shop zoom dvd COL manufacturer VAL riverdeep COL price VAL 	1084
+COL title VAL burning monkey solitaire 4.0 COL manufacturer VAL freeverse software COL price VAL 24.95	1085
+COL title VAL calendar creator platinum sb cs by riverdeep COL manufacturer VAL encore software COL price VAL 29.99	1086
+COL title VAL captain america the complete comic collection win/mac COL manufacturer VAL git corp COL price VAL 49.95	1087
+COL title VAL suitcase fusion 1u box COL manufacturer VAL extensis COL price VAL 	1088
+COL title VAL e-mu em8685 beat garden x emulator x2/proteus x2 soundset COL manufacturer VAL e-mu COL price VAL 129.99	1089
+COL title VAL the sims 2 ( mac ) COL manufacturer VAL aspyr media COL price VAL 49.99	1090
+COL title VAL soundtrack 1.2 COL manufacturer VAL apple COL price VAL 199.99	1091
+COL title VAL call of duty 2 dvd-rom ( mac ) COL manufacturer VAL aspyr media COL price VAL 49.99	1092
+COL title VAL final cut express 2.0 upgrade COL manufacturer VAL apple computer COL price VAL 99.99	1093
+COL title VAL detto move2mac usb COL manufacturer VAL detto-technologies-inc COL price VAL 71.31	1094
+COL title VAL allume aquazone seven seas deluxe COL manufacturer VAL allume COL price VAL 38.89	1095
+COL title VAL apple remote desktop 2.2 10 client ( old version ) COL manufacturer VAL apple COL price VAL 299.0	1096
+COL title VAL spy sweeper with antivirus/child safe COL manufacturer VAL webroot software COL price VAL 39.95	1097
+COL title VAL rollercoaster tycoon 3 ( mac ) COL manufacturer VAL aspyr media COL price VAL 49.99	1098
+COL title VAL webroot spysweeper antispyware 3 user COL manufacturer VAL webroot software COL price VAL 39.99	1099
+COL title VAL poser 7 win 2000 xp mac os 10.4 & up COL manufacturer VAL aladdin systems COL price VAL 199.99	1100
+COL title VAL steinberg cubase studio 4 COL manufacturer VAL steinberg COL price VAL 499.99	1101
+COL title VAL john deere : busy days in deerfield valley COL manufacturer VAL destineer publishing COL price VAL 19.99	1102
+COL title VAL genuine fractals print pro 5 1u COL manufacturer VAL onone software COL price VAL 299.95	1103
+COL title VAL history ( dvd ) ( pc & mac ) COL manufacturer VAL fogware publishing COL price VAL 	1104
+COL title VAL punch ! master landscape & home design COL manufacturer VAL punch ! software COL price VAL 59.99	1105
+COL title VAL zend studio 5.1 ( win/mac ) COL manufacturer VAL zend-technologies-inc . COL price VAL 299.0	1106
+COL title VAL pitstop pro 7.0 COL manufacturer VAL enfocus software COL price VAL 699.0	1107
+COL title VAL 3d bridge deluxe ( mac ) COL manufacturer VAL freeverse software COL price VAL 24.99	1108
+COL title VAL halo ( mac ) COL manufacturer VAL macsoft COL price VAL 29.99	1109
+COL title VAL the print shop 22 pro publisher deluxe sb cs by the print shop COL manufacturer VAL encore software COL price VAL 99.95	1110
+COL title VAL apple final cut studio 2 ( mac ) COL manufacturer VAL apple COL price VAL 1299.0	1111
+COL title VAL railroad tycoon 3 ( mac ) COL manufacturer VAL macsoft COL price VAL 19.99	1112
+COL title VAL logic express 7.2 upgrade from logic express 6 COL manufacturer VAL apple-computer - ( direct ) COL price VAL 99.0	1113
+COL title VAL webroot spy sweeper antispyware 5.x COL manufacturer VAL webroot software COL price VAL 29.95	1114
+COL title VAL punch ! master landscape professional & home design v 10.0 COL manufacturer VAL punch ! software COL price VAL 69.95	1115
+COL title VAL aquazone bass edition COL manufacturer VAL smith-micro-software COL price VAL 19.99	1116
+COL title VAL dk rainbow fish most beautiful fish in the ocean COL manufacturer VAL encore COL price VAL 9.99	1117
+COL title VAL adobe creative suite cs3 master collection upsell COL manufacturer VAL adobe COL price VAL 1999.0	1118
+COL title VAL apple remote desktop 3 10 managed systems COL manufacturer VAL apple COL price VAL 299.0	1119
+COL title VAL caillou ready for school ( pc & mac ) COL manufacturer VAL brighter-minds-media-inc . COL price VAL 19.99	1120
+COL title VAL totally spies : zombie jamboree ( win/mac ) COL manufacturer VAL brighter-minds-media-inc . COL price VAL 9.95	1121
+COL title VAL apple xsan ( mac ) COL manufacturer VAL apple COL price VAL 	1122
+COL title VAL business card composer ( mac ) COL manufacturer VAL belight software COL price VAL 39.99	1123
+COL title VAL emedia print music 2006 win/mac COL manufacturer VAL makemusic ! COL price VAL 69.99	1124
+COL title VAL adobe solution expert support COL manufacturer VAL adobe COL price VAL 299.0	1125
+COL title VAL totally spies : total swamp romp ( pc & mac ) COL manufacturer VAL brighter-minds-media-inc . COL price VAL 19.99	1126
+COL title VAL steinberg sequel ( pc or mac ) music creation & performance software COL manufacturer VAL steinberg COL price VAL 129.0	1127
+COL title VAL miraizon cinematize 2 ( mac ) COL manufacturer VAL miraizon COL price VAL 69.99	1128
+COL title VAL bias deck le 3.5 macintosh cd COL manufacturer VAL bias COL price VAL 99.0	1129
+COL title VAL adobe cs3 design premium macosx dvd COL manufacturer VAL adobe COL price VAL 599.0	1130
+COL title VAL power production storyboard quick COL manufacturer VAL power production COL price VAL 	1131
+COL title VAL civilization iv dvd-rom ( mac ) COL manufacturer VAL aspyr media COL price VAL 49.99	1132
+COL title VAL apple shake 4.1 visual effects ( mac ) COL manufacturer VAL apple computer COL price VAL 499.0	1133
+COL title VAL comic book library COL manufacturer VAL marvel COL price VAL 49.99	1134
+COL title VAL mediafour macdrive 6 for windows COL manufacturer VAL mediafour corporation COL price VAL 49.99	1136
+COL title VAL wavelab studio 6 COL manufacturer VAL steinberg-media-technologies COL price VAL 399.99	1137
+COL title VAL net ad creator COL manufacturer VAL laughing bird COL price VAL 39.99	1138
+COL title VAL cakewalk sonar 6 producer ed COL manufacturer VAL cakewalk COL price VAL 799.0	1139
+COL title VAL appleworks 6.2.9 COL manufacturer VAL apple COL price VAL 79.0	1141
+COL title VAL adobe captivate 2.0 COL manufacturer VAL adobe COL price VAL 1083.95	1142
+COL title VAL crystal 3d impact ! pro 1.25 ( jewel case ) COL manufacturer VAL crystalgraphics COL price VAL 79.0	1143
+COL title VAL play music together mac COL manufacturer VAL iplaymusic COL price VAL 39.99	1144
+COL title VAL microsoft office 2004 standard ( mac ) COL manufacturer VAL microsoft COL price VAL 399.99	1145
+COL title VAL swift publisher for mac COL manufacturer VAL global-marketing-partners COL price VAL 39.99	1146
+COL title VAL zoo tycoon 2 ( mac ) COL manufacturer VAL destineer COL price VAL 39.99	1147
+COL title VAL sibelius 4 professional edition COL manufacturer VAL sibelius-software-ltd . COL price VAL 599.99	1148
+COL title VAL burning monkey mahjongg ( mac ) COL manufacturer VAL freeverse software COL price VAL 24.99	1149
+COL title VAL 40 years of the x-men COL manufacturer VAL git corp COL price VAL 49.99	1150
+COL title VAL pc tools spyware doctor 2007 COL manufacturer VAL encore COL price VAL 29.95	1151
+COL title VAL x-plane v8 ( mac ) COL manufacturer VAL graphics-simulations-corporation COL price VAL 49.99	1152
+COL title VAL drive genius by prosoft engineering inc COL manufacturer VAL global-marketing-partners COL price VAL 129.0	1153
+COL title VAL finale 2006 ( pc & mac ) COL manufacturer VAL emedia COL price VAL 600.0	1154
+COL title VAL istopmotion COL manufacturer VAL navarre COL price VAL 39.95	1155
+COL title VAL pro digital frame bundle 1u COL manufacturer VAL onone software COL price VAL 99.95	1156
+COL title VAL internet cleanup 4.0 mac os 10.4 or higher COL manufacturer VAL smith-micro-software COL price VAL 29.99	1157
+COL title VAL burning monkey solitaire 2005 edition COL manufacturer VAL freeverse software COL price VAL 24.99	1158
+COL title VAL nero 7 ultra edition enhanced pc & home entrmnt soln COL manufacturer VAL neso usa COL price VAL 99.99	1159
+COL title VAL apple mac os x tiger 10.4.6 ( mac dvd ) COL manufacturer VAL apple computer COL price VAL 129.0	1160
+COL title VAL motu digital performer 5 digital audio software competitive upgrade ( mac only ) COL manufacturer VAL motu COL price VAL 395.0	1162
+COL title VAL spring cleaning 9.0 for mac os 10.4 & above COL manufacturer VAL aladdin systems COL price VAL 49.99	1163
+COL title VAL g7 kontakt edition COL manufacturer VAL sibelius-software-ltd . COL price VAL 99.99	1164
+COL title VAL chronos stickybrain 3.0 ( mac ) COL manufacturer VAL chronos l.c. COL price VAL 34.99	1165
+COL title VAL cakewalk sonar 6 studio COL manufacturer VAL cakewalk COL price VAL 369.0	1166
+COL title VAL micromat techtool protege with firewire device COL manufacturer VAL micromat COL price VAL 	1167
+COL title VAL sibelius compass COL manufacturer VAL sibelius-software-ltd . COL price VAL 159.99	1168
+COL title VAL print explosion deluxe 3.0 ( mac ) COL manufacturer VAL nova development COL price VAL 49.99	1169
+COL title VAL steinberg cubase 4 digital audio software COL manufacturer VAL steinberg COL price VAL 999.99	1170
+COL title VAL stuffit deluxe 11 COL manufacturer VAL aladdin systems COL price VAL 79.99	1171
+COL title VAL symc ghost solution suite 2.0 media COL manufacturer VAL symantec COL price VAL 35.57	1172
+COL title VAL amazing spider-man complete comic book collection win/mac COL manufacturer VAL git corp COL price VAL 49.99	1173
+COL title VAL adobe indesign cs3 upgrade from pagemaker [ mac ] COL manufacturer VAL adobe COL price VAL 199.0	1174
+COL title VAL apple mac os x tiger 10.4.6 family pack ( mac ) COL manufacturer VAL apple computer COL price VAL 199.0	1175
+COL title VAL valuesoft tune transfer for ipod software for windows xp COL manufacturer VAL valuesoft COL price VAL 29.95	1176
+COL title VAL microsoft office student and teacher edition 2004 macintosh COL manufacturer VAL microsoft COL price VAL 149.99	1177
+COL title VAL microspot x-rip ( mac ) COL manufacturer VAL microspot ltd COL price VAL 349.99	1179
+COL title VAL bias peak le 5 COL manufacturer VAL bias COL price VAL 129.0	1180
+COL title VAL the logo creator ( mac ) COL manufacturer VAL laughing bird COL price VAL 39.99	1181
+COL title VAL onone software pxl smartscale windows and macintosh ) COL manufacturer VAL onone software COL price VAL 	1182
+COL title VAL sims 2 pets expansion pack COL manufacturer VAL aspyr media COL price VAL 34.99	1183
+COL title VAL iview mediapro 2.5 COL manufacturer VAL global marketing COL price VAL 199.99	1184
+COL title VAL 3d home architect landscape design deluxe version 9 COL manufacturer VAL encore COL price VAL 29.99	1185
+COL title VAL adobe creative suite cs3 web standard [ mac ] COL manufacturer VAL adobe COL price VAL 999.0	1186
+COL title VAL clickart 1.2 million 2006 dvd COL manufacturer VAL encore software COL price VAL 	1187
+COL title VAL pc tutor learn windows vista & office 2007 COL manufacturer VAL nova development COL price VAL 29.99	1189
+COL title VAL punch ! professional home design COL manufacturer VAL punch ! software COL price VAL 89.99	1190
+COL title VAL sims 2 glamour life stuff pack COL manufacturer VAL aspyr media COL price VAL 24.99	1191
+COL title VAL mcafee virusscan plus 3 user COL manufacturer VAL mcafee COL price VAL 59.99	1192
+COL title VAL roxio toast 8 titanium COL manufacturer VAL roxio COL price VAL 99.95	1194
+COL title VAL home design architect series 3000 v10 .0 COL manufacturer VAL punch ! software COL price VAL 149.95	1195
+COL title VAL individual small business advantage deluxe 2006 COL manufacturer VAL individual COL price VAL 49.99	1196
+COL title VAL finale 2007 academic ( win/mac ) COL manufacturer VAL emedia COL price VAL 350.0	1197
+COL title VAL quickbooks point-of-sale basic 6.0 COL manufacturer VAL intuit COL price VAL 799.95	1198
+COL title VAL dreamweaver cs3 9 mac ed 1u COL manufacturer VAL adobe-education-box COL price VAL 199.0	1199
+COL title VAL true crime streets of la ( mac ) COL manufacturer VAL aspyr media COL price VAL 19.99	1200
+COL title VAL learn english ( win/mac ) ( jewel case ) COL manufacturer VAL fogware publishing COL price VAL 9.99	1201
+COL title VAL caillou magical adventures COL manufacturer VAL brighter-minds-media-inc . COL price VAL 19.99	1202
+COL title VAL corefx three level COL manufacturer VAL core learning COL price VAL 59.95	1203
+COL title VAL space ( dvd ) ( pc & mac ) COL manufacturer VAL fogware publishing COL price VAL 29.99	1204
+COL title VAL micromat diskstudio mac ) COL manufacturer VAL micromat COL price VAL 99.0	1205
+COL title VAL contentbarrier x4 10.4 single user ( mac ) COL manufacturer VAL intego COL price VAL 49.99	1206
+COL title VAL stuffit deluxe 11 COL manufacturer VAL aladdin systems COL price VAL 49.99	1207
+COL title VAL tune tools for ipod ( win/mac ) COL manufacturer VAL valusoft COL price VAL 19.99	1208
+COL title VAL flash action phonics made easy COL manufacturer VAL school zone COL price VAL 14.99	1209
+COL title VAL kaplan sat/act/psat gold 2007 win/mac COL manufacturer VAL topics entertainment COL price VAL 29.99	1210
+COL title VAL enteractive fps creator windows ) COL manufacturer VAL enteractive inc. . COL price VAL 	1211
+COL title VAL math success deluxe 2008 COL manufacturer VAL topics entertainment COL price VAL 49.99	1212
+COL title VAL money home & business 2007 win32 eng na mini box us only cd COL manufacturer VAL microsoft COL price VAL 139.43	1213
+COL title VAL multiplication and division grades 3-4 COL manufacturer VAL school zone COL price VAL 9.99	1214
+COL title VAL microsoft digital image suite 2006 plus pinnacle studio 10.0 COL manufacturer VAL microsoft COL price VAL 99.95	1215
+COL title VAL macbackup COL manufacturer VAL macware COL price VAL 29.99	1216
+COL title VAL stubbs the zombie in rebel without a pulse ( dvd ) ( mac ) COL manufacturer VAL aspyr media COL price VAL 9.99	1217
+COL title VAL civil air patrol : search & rescue COL manufacturer VAL abacus COL price VAL 29.99	1218
+COL title VAL atlantis quest COL manufacturer VAL got game COL price VAL 19.99	1220
+COL title VAL ulead videostudio 10 COL manufacturer VAL corel COL price VAL 69.99	1221
+COL title VAL guild wars nightfall COL manufacturer VAL ncsoft COL price VAL 49.99	1222
+COL title VAL montage ( mac ) COL manufacturer VAL mariner software COL price VAL 149.95	1223
+COL title VAL giggles computer funtime for baby shapes ( win/mac ) COL manufacturer VAL navarre ( software ) COL price VAL 24.95	1224
+COL title VAL sony acid pro 6 professional music workstation COL manufacturer VAL sony-pictures-digital-entertainment COL price VAL 499.95	1225
+COL title VAL calculation skills v1 add & sub basic core learning COL manufacturer VAL sos-aggregation-company COL price VAL 	1226
+COL title VAL sony super duper music looper COL manufacturer VAL sony-media-software COL price VAL 19.99	1227
+COL title VAL learn to play chess with fritz and chesster ( mac ) COL manufacturer VAL viva media COL price VAL 29.99	1228
+COL title VAL adobe photoshop cs2 advanced techniques by julieanne kost COL manufacturer VAL software cinema COL price VAL 	1229
+COL title VAL quickverse mac bible study 2007 gold box COL manufacturer VAL findex COL price VAL 349.95	1230
+COL title VAL adobe framemaker 7.2 ( windows ) COL manufacturer VAL adobe COL price VAL 1445.9	1231
+COL title VAL sound forge 9.0 COL manufacturer VAL sony media COL price VAL 399.96	1232
+COL title VAL audio success suite edition : sales success COL manufacturer VAL topics entertainment COL price VAL 19.95	1233
+COL title VAL logic express 6 COL manufacturer VAL apple COL price VAL 299.99	1234
+COL title VAL photoshop elements 4 edu mac 1u COL manufacturer VAL adobe-education-box COL price VAL 69.0	1235
+COL title VAL pc cakewalk guitar tracks pro 3 COL manufacturer VAL cakewalk COL price VAL 149.99	1236
+COL title VAL dvo cook 'n deluxe 6.0 ultimate recipe organizer COL manufacturer VAL dvo enterprises COL price VAL 39.99	1237
+COL title VAL sound forge audio studio 9 COL manufacturer VAL sony media COL price VAL 69.59	1238
+COL title VAL close quarters conflict COL manufacturer VAL groove media COL price VAL 19.99	1239
+COL title VAL upgrade acid pro 6 boxed COL manufacturer VAL sony-pictures-digital-entertainment COL price VAL 305.18	1240
+COL title VAL quicken legal business pro 2007 COL manufacturer VAL nolo press COL price VAL 79.99	1241
+COL title VAL peachtree by sage premium accounting 2007 COL manufacturer VAL sage software COL price VAL 499.99	1242
+COL title VAL prey COL manufacturer VAL aspyr media COL price VAL 39.99	1243
+COL title VAL peachtree by sage pro accounting 2007 COL manufacturer VAL sage software COL price VAL 169.99	1244
+COL title VAL gsp greatest moments of our time COL manufacturer VAL global-software-publishing-north-america-inc COL price VAL 9.99	1245
+COL title VAL peachtree by sage complete accounting 2007 COL manufacturer VAL sage software COL price VAL 269.99	1246
+COL title VAL audio success series : winning strategies COL manufacturer VAL topics entertainment COL price VAL 	1247
+COL title VAL american idol extreme music creator COL manufacturer VAL sony media COL price VAL 49.95	1248
+COL title VAL window washer COL manufacturer VAL navarre ( software ) COL price VAL 29.95	1249
+COL title VAL emedia piano and keyboard method volume 1 COL manufacturer VAL emedia COL price VAL 59.99	1250
+COL title VAL adobe acrobat standard 8.0 COL manufacturer VAL adobe COL price VAL 449.99	1251
+COL title VAL adobe photoshop cs2 fundamental techniques by julieanne kost COL manufacturer VAL software cinema COL price VAL 	1252
+COL title VAL reel deal casino shuffle master edition COL manufacturer VAL phantom efx COL price VAL 19.99	1253
+COL title VAL john deere : welcome to merriweather farm COL manufacturer VAL global-software-publishing COL price VAL 19.99	1254
+COL title VAL sony acid pro 5 COL manufacturer VAL sony COL price VAL 399.95	1255
+COL title VAL galaxy of games 5000 COL manufacturer VAL 2k games COL price VAL 19.99	1256
+COL title VAL total 3d home & landscape design suite version 9 COL manufacturer VAL individual software COL price VAL 39.99	1257
+COL title VAL punch ! home design architectura series 18 COL manufacturer VAL punch ! software COL price VAL 129.99	1258
+COL title VAL print shop 22 pro publisher deluxe COL manufacturer VAL encore COL price VAL 99.99	1259
+COL title VAL intervideo dvd copy 5 express COL manufacturer VAL corel COL price VAL 29.99	1261
+COL title VAL adobe flash pro cs3 upgrade [ mac ] COL manufacturer VAL adobe COL price VAL 199.0	1262
+COL title VAL photoedit 2 ( mac ) COL manufacturer VAL macware COL price VAL 29.99	1263
+COL title VAL punch ! professional home design suite COL manufacturer VAL punch ! software COL price VAL 69.99	1264
+COL title VAL 3 great games for guys COL manufacturer VAL dreamcatcher interactive COL price VAL 29.99	1265
+COL title VAL sony sound forge audio studio 8 COL manufacturer VAL sony-pictures-digital-entertainment COL price VAL 69.99	1266
+COL title VAL places ( pc & mac ) COL manufacturer VAL fogware publishing COL price VAL 29.99	1267
+COL title VAL acid music studio 7 COL manufacturer VAL sony media COL price VAL 78.95	1268
+COL title VAL punch 5 in 1 home design COL manufacturer VAL punch ! software COL price VAL 39.99	1269
+COL title VAL xtreme photostory on cd and dvd 6 COL manufacturer VAL magix entertainment COL price VAL 29.99	1270
+COL title VAL anime studio 5 win 98/me 2000/xp mac os 10.4 & up COL manufacturer VAL aladdin systems COL price VAL 49.99	1271
+COL title VAL punch ! home design architectural series 18 COL manufacturer VAL punch ! software COL price VAL 129.99	1272
+COL title VAL adobe soundbooth cs3 COL manufacturer VAL adobe COL price VAL 199.0	1273
+COL title VAL wingnuts 2 ( mac ) COL manufacturer VAL freeverse software COL price VAL 29.99	1274
+COL title VAL punch ! super home suite COL manufacturer VAL punch ! software COL price VAL 49.99	1275
+COL title VAL quickverse bible premier suite COL manufacturer VAL individual software COL price VAL 39.99	1276
+COL title VAL palo alto marketing plan pro 9.0 COL manufacturer VAL palo-alto-software COL price VAL 179.0	1277
+COL title VAL easy video editor 2.0 by honest technology COL manufacturer VAL global-marketing-partners COL price VAL 50.88	1278
+COL title VAL palo alto business plan pro premier 2007 COL manufacturer VAL palo-alto-software COL price VAL 199.0	1279
+COL title VAL national parks : enhanced scenery add-on for microsoft flight simulator 2002 & 2000 COL manufacturer VAL abacus COL price VAL 19.99	1280
+COL title VAL palo alto business plan pro 2007 COL manufacturer VAL palo-alto-software COL price VAL 99.95	1281
+COL title VAL adobe after effects cs3 COL manufacturer VAL adobe COL price VAL 999.0	1282
+COL title VAL namo webeditor 2006 COL manufacturer VAL namo COL price VAL 99.99	1283
+COL title VAL punch ! master landscape & home design COL manufacturer VAL punch ! software COL price VAL 99.99	1284
+COL title VAL black & white platinum pack ( mac ) COL manufacturer VAL feral interactive COL price VAL 29.99	1285
+COL title VAL webroot desktop firewall COL manufacturer VAL webroot software COL price VAL 29.99	1286
+COL title VAL punch ! 5 in 1 home design COL manufacturer VAL punch ! software COL price VAL 39.99	1287
+COL title VAL city of heroes good vs. evil edition COL manufacturer VAL nc soft COL price VAL 29.99	1288
+COL title VAL business card factory deluxe 3.0 COL manufacturer VAL nova development COL price VAL 29.99	1289
+COL title VAL punch ! home design architectural series 4000 v10 COL manufacturer VAL punch ! software COL price VAL 199.99	1290
+COL title VAL big tiny little a tiny little christmas COL manufacturer VAL yamaha COL price VAL 34.95	1291
+COL title VAL small business server 2003 20u cal addpak user COL manufacturer VAL microsoft COL price VAL 	1292
+COL title VAL systemsuite 8 professional COL manufacturer VAL individual software COL price VAL 49.99	1293
+COL title VAL jumpstart 4th-6th grade v 2.0 b43 COL manufacturer VAL knowledge adventure COL price VAL 19.99	1294
+COL title VAL pcdefense COL manufacturer VAL avanquest software COL price VAL 29.95	1295
+COL title VAL starry night astronomy screensaver win/mac COL manufacturer VAL imaginova COL price VAL 19.99	1296
+COL title VAL quickverse sermon builder 4.0 COL manufacturer VAL findex.com inc COL price VAL 69.95	1297
+COL title VAL ultra sudoku/ultra kakuro COL manufacturer VAL abacus COL price VAL 29.95	1298
+COL title VAL snap ! spelling ( jewel case ) COL manufacturer VAL topics entertainment COL price VAL 19.95	1299
+COL title VAL acad vegas movie studio + dvd 8 platinum COL manufacturer VAL sony-pictures-digital-entertainment COL price VAL 	1300
+COL title VAL bitdefender antivirus 10.0 [ 2 year subscription for 2 pcs ] COL manufacturer VAL global-marketing-partners COL price VAL 39.95	1301
+COL title VAL scrabble with bonus clue COL manufacturer VAL encore COL price VAL 19.99	1302
+COL title VAL scrabble complete ( jewel case ) COL manufacturer VAL encore COL price VAL 9.99	1303
+COL title VAL piano wizard premier software & stickers & midi cable COL manufacturer VAL re : launch COL price VAL 149.95	1304
+COL title VAL microsoft visual studio professional w/msdn professional 2005 renewal COL manufacturer VAL microsoft software COL price VAL 799.0	1305
+COL title VAL emedia guitarpro 5 win/mac COL manufacturer VAL emedia COL price VAL 59.99	1306
+COL title VAL spycatcher 2007for pc COL manufacturer VAL avanquest COL price VAL 19.99	1307
+COL title VAL intuit quicken home inventory manager windows COL manufacturer VAL intuit COL price VAL 34.95	1308
+COL title VAL academy award winners COL manufacturer VAL yamaha COL price VAL 31.95	1309
+COL title VAL ca antivirus 2007 COL manufacturer VAL computer associates COL price VAL 39.95	1310
+COL title VAL zonealarm pro firewall COL manufacturer VAL zone labs COL price VAL 39.99	1311
+COL title VAL sales skills 2.0 ages 10 + COL manufacturer VAL victory multimedia COL price VAL 19.95	1312
+COL title VAL brain builder COL manufacturer VAL core learning COL price VAL 19.95	1313
+COL title VAL return to castle wolfenstein ( mac ) COL manufacturer VAL aspyr media COL price VAL 29.99	1314
+COL title VAL solitaire antics deluxe COL manufacturer VAL masque publishing COL price VAL 	1315
+COL title VAL aircraft collector 's second edition COL manufacturer VAL abacus COL price VAL 19.95	1316
+COL title VAL findex quickverse bible study 2007 bible-suite COL manufacturer VAL findex COL price VAL 	1317
+COL title VAL treasure mountain ! ( jewel case ) ages 5-9 for win/mac COL manufacturer VAL riverdeep COL price VAL 9.99	1318
+COL title VAL video patrol 5.0 by honest technology COL manufacturer VAL global-marketing-partners COL price VAL 50.86	1319
+COL title VAL snap ! kakuro COL manufacturer VAL topics entertainment COL price VAL 4.99	1320
+COL title VAL instant immersion american sign language win/mac COL manufacturer VAL topics entertainment COL price VAL 9.99	1321
+COL title VAL adobe creative suite cs3 design premium upsell COL manufacturer VAL adobe COL price VAL 1599.0	1322
+COL title VAL simple slide show COL manufacturer VAL topics entertainment COL price VAL 19.99	1323
+COL title VAL printmaster platinum v 17.0 COL manufacturer VAL encore software COL price VAL 39.99	1324
+COL title VAL street atlas usa 2007 plus dvd COL manufacturer VAL delorme COL price VAL 59.95	1325
+COL title VAL jumpstart world 2nd grade COL manufacturer VAL knowledge adventure COL price VAL 19.99	1326
+COL title VAL great invasions COL manufacturer VAL strategy first COL price VAL 39.99	1327
+COL title VAL web graphics creator COL manufacturer VAL sos-aggregation-company COL price VAL 39.95	1328
+COL title VAL instant immersion translator deluxe 2.0 COL manufacturer VAL topics entertainment COL price VAL 49.99	1329
+COL title VAL onone essentials for adobe photoshop elements version 2 full COL manufacturer VAL onone software COL price VAL 59.95	1330
+COL title VAL funny faces deluxe COL manufacturer VAL fogware publishing COL price VAL 19.99	1331
+COL title VAL emedia blues guitar legends COL manufacturer VAL emedia COL price VAL 29.94	1332
+COL title VAL age of empires iii : the warchiefs expansion pack ( mac ) COL manufacturer VAL destineer COL price VAL 34.95	1333
+COL title VAL adobe creative suite cs3 web standard COL manufacturer VAL adobe COL price VAL 999.0	1334
+COL title VAL guitar tool worship edition COL manufacturer VAL midisoft corporation COL price VAL 	1335
+COL title VAL delorme topo usa mapping software 6.0 east region COL manufacturer VAL delorme COL price VAL 49.95	1336
+COL title VAL nero 8 ultra edition COL manufacturer VAL nero inc. COL price VAL 99.95	1337
+COL title VAL weekly reader mastering high school 2008 COL manufacturer VAL fogware publishing COL price VAL 29.99	1338
+COL title VAL make music allegro 2007 labpack 5 user COL manufacturer VAL makemusic ! COL price VAL 375.0	1340
+COL title VAL instant immersion hawaiian audio COL manufacturer VAL topics entertainment COL price VAL 	1341
+COL title VAL power translator 11 premium COL manufacturer VAL language-engineering-co-llc COL price VAL 79.99	1342
+COL title VAL liquid ledger personal finance COL manufacturer VAL csdc COL price VAL 79.99	1343
+COL title VAL sportsman 's double play COL manufacturer VAL masque publishing COL price VAL 19.95	1344
+COL title VAL jumpstart advanced preschool v2 .0 COL manufacturer VAL knowledge adventure COL price VAL 19.99	1345
+COL title VAL visual thesaurus the thinkmap inc. COL manufacturer VAL csdc COL price VAL 39.95	1346
+COL title VAL phonics success essentials : grades 7-9 COL manufacturer VAL topics education COL price VAL 19.99	1347
+COL title VAL cook 'n cd recipe cards COL manufacturer VAL dvo enterprises COL price VAL 19.99	1348
+COL title VAL adobe creative suite cs3 web standard upsell [ mac ] COL manufacturer VAL adobe COL price VAL 799.0	1349
+COL title VAL train sim modeler design studio COL manufacturer VAL abacus COL price VAL 39.99	1350
+COL title VAL learn to play keyboard ( jewel case ) COL manufacturer VAL alfred publishing COL price VAL 9.99	1351
+COL title VAL instant immersion italian deluxe v2 .0 ( large box ) COL manufacturer VAL topics entertainment COL price VAL 29.99	1353
+COL title VAL enemy territory : quake wars COL manufacturer VAL aspyr media COL price VAL 49.99	1354
+COL title VAL weekly reader mastering elementary/middle school math learning COL manufacturer VAL fogware publishing COL price VAL 19.99	1355
+COL title VAL sentinel : descendants in time COL manufacturer VAL dreamcatcher interactive COL price VAL 19.99	1356
+COL title VAL photostory on cd & dvd 5 COL manufacturer VAL magix entertainment COL price VAL 19.99	1357
+COL title VAL dragon naturally speaking standard v9 COL manufacturer VAL nuance-communications-inc . COL price VAL 99.99	1360
+COL title VAL mediarecover COL manufacturer VAL aladdin systems COL price VAL 29.99	1361
+COL title VAL photo explosion 3.0 COL manufacturer VAL nova development COL price VAL 29.99	1362
