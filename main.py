@@ -26,7 +26,6 @@ def parse_options(parser):
     parser.add_argument('--dp_mechanism', type=str, default='Laplace')
     parser.add_argument('--dp_clip', type=int, default = 5)
     parser.add_argument('--dp_epsilon', type = float, default = 0.2)
-    # parser.add_argument('-add_noise', type=int, default=0)
     parser.add_argument('-port', type=int, default=8800)
     parser.add_argument('--t', type=float, default=0.08)
     parser.add_argument('--momentum', type=float, default=0.9999)
