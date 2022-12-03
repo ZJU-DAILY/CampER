@@ -50,4 +50,4 @@ The meaning of the flags:
 
 ## Acknowledgementt
 
-The original datasets are from [DeepMather](https://github.com/anhaidgroup/deepmatcher).
+The original datasets are from [DeepMatcher](https://github.com/anhaidgroup/deepmatcher).
