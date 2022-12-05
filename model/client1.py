@@ -73,7 +73,6 @@ def train(args, loader1, eval_loader1, set1_id2t, set2_id2t, set_size=0, start=0
             if isinstance(tuple_id_1, int):
                 tuple_id_1 = [tuple_id_1]
             ids_1.extend(tuple_id_1)
-
     v1 = np.vstack(vector_1).astype(np.float32)
     v1 = preprocessing.normalize(v1)
     self_sim_score = torch.tensor(v1.dot(v1.T))
@@ -94,10 +93,7 @@ def train(args, loader1, eval_loader1, set1_id2t, set2_id2t, set_size=0, start=0
                             ))
 
     for round_id in range(start, args.rounds):
-
-
         epoch_loss = []
-
         scaler = GradScaler()
         # Local Update
         for iter in range(args.local_ep):
@@ -115,19 +111,15 @@ def train(args, loader1, eval_loader1, set1_id2t, set2_id2t, set_size=0, start=0
                 # rand_id = random.sample(id2tokens1.keys(), topk)
                 # topk_tokens = list(map(id2tokens1.get, rand_id))
                 # x = np.array(topk_tokens)
-
-
                 if len(batch) == 3:
                     tuple_tokens, tuple_pos_tokens, _ = batch  # T(batch_size, 256) T(batch_size, neg_num, 256) T(batch_size)
                     pos1 = tuple_tokens
                     pos2 = tuple_pos_tokens
-
                 else:
                     tuple_tokens, tuple_pos_tokens, tuple_neg_tokens, _ = batch
                     pos1 = tuple_tokens
                     pos2 = tuple_pos_tokens
                     neg_dk = tuple_neg_tokens
-
                 optimizer.zero_grad()
                 with torch.no_grad():
                     _model.eval()
@@ -135,7 +127,6 @@ def train(args, loader1, eval_loader1, set1_id2t, set2_id2t, set_size=0, start=0
                     hard_neg = torch.LongTensor(x).to(device)
                     neg_value = _model(hard_neg)
                     del pos2
-
                 with autocast():
                     pos_1 = model(pos1.squeeze(0))
                     # contrastive
@@ -143,9 +134,9 @@ def train(args, loader1, eval_loader1, set1_id2t, set2_id2t, set_size=0, start=0
                 del pos_1
                 del pos_2
                 del neg_value
-
                 iteration += 1
                 scaler.scale(loss).backward()
+                
                 if args.dp_clip > 0:
                     scaler.unscale_(optimizer)
                     torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=args.dp_clip,  norm_type=1)
@@ -158,10 +149,8 @@ def train(args, loader1, eval_loader1, set1_id2t, set2_id2t, set_size=0, start=0
 
         if args.dp_epsilon != -1:
             add_noise(model, args.dp_mechanism, args.lr, args.dp_clip, args.dp_epsilon, args.batch_size, dp_delta=None)
-
         model_weight = model.state_dict()
         local_loss = sum(epoch_loss) / len(epoch_loss)
-
         w = pickle.dumps(model_weight)
         need_recv_size = len(w)
         conn.sendall(w)
@@ -170,16 +159,13 @@ def train(args, loader1, eval_loader1, set1_id2t, set2_id2t, set_size=0, start=0
             x = conn.recv(min(0xffffffff, need_recv_size))
             recv += x
             need_recv_size -= len(x)
-
         weight_B = pickle.loads(recv)
-
         w_avg = copy.deepcopy(model_weight)
         for key in model_weight.keys():
             w_avg[key] += weight_B[key]
             w_avg[key] = torch.div(w_avg[key], 2)
         # update parameters
         model.load_state_dict(w_avg)
-
         _model.update(model)
 
         # PASM
