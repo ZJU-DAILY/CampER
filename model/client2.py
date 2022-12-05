@@ -171,9 +171,9 @@ def train(args, loader2, eval_loader2, set_size=0, start=0):
         # update parameters
         model.load_state_dict(w_avg)
         _model.update(model)
-
+        
+        #PASM
         ids_2, vector_2 = list(), list()
-
         with torch.no_grad():
             model.eval()
             for sample_id_2, (tuple_token_2, tuple_id_2) in enumerate(eval_loader2):
@@ -186,27 +186,41 @@ def train(args, loader2, eval_loader2, set_size=0, start=0):
                 ids_2.extend(tuple_id_2)
         v2 = np.vstack(vector_2).astype(np.float32)
         v2 = preprocessing.normalize(v2)
-
-
-        if round_id == int(args.rounds)-1:
-            li = []
-            for i, x in enumerate(ids_2):
-                if x not in match_dic2:
-                    li.append(i)
-            v2_ = np.delete(v2, li, axis=0)
-            np.savetxt("./round_{}_WA_FED_Amazon.txt".format(round_id), v2_, fmt='%f', delimiter=',')
-
         self_sim_score = torch.tensor(v2.dot(v2.T))
         self_dist, self_topk = torch.topk(self_sim_score, k=topk, dim=1)
-        v2 = pickle.dumps(v2)
-        header = struct.pack('i', len(v2))
-        s.send(header)
-        s.sendall(v2)
 
         ids_2 = pickle.dumps(ids_2)
         header = struct.pack('i', len(ids_2))
         s.send(header)
         s.sendall(ids_2)
+
+        header_struct = s.recv(4)  # 4 length
+        unpack_res = struct.unpack('i', header_struct)
+        need_recv_size = unpack_res[0]
+        recv = b""
+        while need_recv_size > 0:
+            x = s.recv(min(0xfffffffffff, need_recv_size))
+            recv += x
+            need_recv_size -= len(x)
+        noise_v1 = pickle.loads(recv)
+        sim_score = torch.tensor(v2.dot(noise_v1.T))
+        distB, topkB = torch.topk(sim_score, k=2, dim=1)
+
+        row = v2.shape[0]
+        noise = np.arange(768)
+        noise = [noise]
+        noise = np.repeat(noise, row, axis=0)
+        noise_v2 = v2 + noise
+
+        noise_v2 = pickle.dumps(noise_v2)
+        header = struct.pack('i', len(noise_v2))
+        s.send(header)
+        s.sendall(noise_v2)
+
+        send_topkB = pickle.dumps(topkB)
+        header = struct.pack('i', len(send_topkB))
+        s.send(header)
+        s.sendall(send_topkB)
 
     s.close()
     end = time.time()
