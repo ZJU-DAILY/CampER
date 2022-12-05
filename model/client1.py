@@ -182,11 +182,10 @@ def train(args, loader1, eval_loader1, set1_id2t, set2_id2t, set_size=0, start=0
 
         _model.update(model)
 
-        # evaluate
+        # PASM
         print('round: {} loss: {}'.format(round_id, local_loss))
         with open(filename, 'a+') as f:
             f.write('round: {} loss: {}\n'.format(round_id, local_loss))
-
         ids_1, vector_1 = list(), list()
         with torch.no_grad():
             model.eval()
@@ -204,17 +203,6 @@ def train(args, loader1, eval_loader1, set1_id2t, set2_id2t, set_size=0, start=0
         self_sim_score = torch.tensor(v1.dot(v1.T))
         self_dist, self_topk = torch.topk(self_sim_score, k=topk, dim=1)
 
-        # recv v2 from party2
-        header_struct = conn.recv(4)  # 4 length
-        unpack_res = struct.unpack('i', header_struct)
-        need_recv_size = unpack_res[0]
-        recv = b""
-        while need_recv_size > 0:
-            x = conn.recv(min(0xfffffffffff, need_recv_size))
-            recv += x
-            need_recv_size -= len(x)
-        v2 = pickle.loads(recv)
-
         header_struct = conn.recv(4)  # 4 length
         unpack_res = struct.unpack('i', header_struct)
         need_recv_size = unpack_res[0]
@@ -225,16 +213,45 @@ def train(args, loader1, eval_loader1, set1_id2t, set2_id2t, set_size=0, start=0
             need_recv_size -= len(xx)
         ids_2 = pickle.loads(recv)
 
+        row = v1.shape[0]
+        noise = np.arange(768) #to ensure reproducibility (not affected by seed), while noise with arbitrary distribution is acceptable
+        noise = [noise]
+        noise = np.repeat(noise, row, axis=0)
+        noise_v1 = v1 + noise
+
+        noise_v1 = pickle.dumps(noise_v1)
+        header = struct.pack('i', len(noise_v1))
+        conn.send(header)
+        conn.sendall(noise_v1)
+
+        header_struct = conn.recv(4)  # 4 length
+        unpack_res = struct.unpack('i', header_struct)
+        need_recv_size = unpack_res[0]
+        recv = b""
+        while need_recv_size > 0:
+            x = conn.recv(min(0xfffffffffff, need_recv_size))
+            recv += x
+            need_recv_size -= len(x)
+        noise_v2 = pickle.loads(recv)
+
+        header_struct = conn.recv(4)  # 4 length
+        unpack_res = struct.unpack('i', header_struct)
+        need_recv_size = unpack_res[0]
+        recv = b""
+        while need_recv_size > 0:
+            xx = conn.recv(min(0xfffffffffff, need_recv_size))
+            recv += xx
+            need_recv_size -= len(xx)
+        topkB = pickle.loads(recv)
+
+        sim_score = torch.tensor(v1.dot(noise_v2.T))
+        distA, topkA = torch.topk(sim_score, k=2, dim=1)
+
         inverse_ids_1, inverse_ids_2 = dict(), dict()
         for idx, _id in enumerate(ids_1):
             inverse_ids_1[_id] = idx  # entity id to index
         for idx, _id in enumerate(ids_2):
             inverse_ids_2[_id] = idx  # entity id to index
-
-        sim_score = torch.tensor(v1.dot(v2.T))
-        distA, topkA = torch.topk(sim_score, k=2, dim=1)
-        distB, topkB = torch.topk(sim_score, k=2, dim=0)
-        topkB = topkB.t()
 
         lenA = topkA.shape[0]
         PseudoMatch = []
@@ -286,7 +303,6 @@ def train(args, loader1, eval_loader1, set1_id2t, set2_id2t, set_size=0, start=0
                     candidate += 1
                 else:
                     extra_match += 1
-
         try:
             pre = round(tp / candidate, 3)
         except ZeroDivisionError:
@@ -313,7 +329,6 @@ def train(args, loader1, eval_loader1, set1_id2t, set2_id2t, set_size=0, start=0
             f.write("F1: {}\n".format(f1))
             f.write("Wrong_Match: {}\n".format(wrong_match))
             f.write("Extra_Match: {}\n".format(extra_match))
-
     conn.close()
     s.close()
     end = time.time()
