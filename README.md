@@ -1,6 +1,6 @@
-# **CampER: An Effective Framework for Privacy-Aware Entity Resolution**
+# **CampER: An Effective Framework for Privacy-Aware Deep Entity Resolution**
 
-CampER, an effective framework for privacy-aware entity resolution, which achieves promising ER accuracy and privacy protection of different organizations. CampER consists of two phases, i.e., collaborative match-aware representation learning (CMRL) and privacy-aware similarity measurement (PASM). In the first phase, CMRL is proposed to embed the tuples owned by different organizations into a uni-space to be match-aware without any manually-labeled pairs; In the second phase, PASM supports a cryptographic-secure similarity measurement algorithm. In addition, we present an order-preserving
+CampER, an effective framework for privacy-aware deep entity resolution, which achieves promising ER accuracy and privacy protection of different organizations. CampER consists of two phases, i.e., collaborative match-aware representation learning (CMRL) and privacy-aware similarity measurement (PASM). In the first phase, CMRL is proposed to embed the tuples owned by different organizations into a uni-space to be match-aware without any manually-labeled pairs; In the second phase, PASM supports a cryptographic-secure similarity measurement algorithm. In addition, we present an order-preserving
 perturbation algorithm to significantly accelerate the matching computation while guaranteeing zero impact on the ER
 results.
 ## Requirements
