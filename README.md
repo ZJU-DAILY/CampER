@@ -27,25 +27,25 @@ python main.py --task "/Structure/DBLP-ACM"
 
 The meaning of the flags:
 
-- `--task: the datasets conducted on. e.g."/Structure/DBLP-ACM"
+- `--task`: the datasets conducted on. e.g."/Structure/DBLP-ACM"
 
-- `--path1: the path of dedupliated table of the organization A. e.g. "./dataset/Structure/DBLP-ACM/train1-dedup.txt"
+- `--path1`: the path of dedupliated table of the organization A. e.g. "./dataset/Structure/DBLP-ACM/train1-dedup.txt"
 
-- `--path2: the path of dedupliated table of the organization B. e.g. "./dataset/Structure/DBLP-ACM/train2-dedup.txt"
+- `--path2`: the path of dedupliated table of the organization B. e.g. "./dataset/Structure/DBLP-ACM/train2-dedup.txt"
 
-- `--dup_path1: the path of duplicate detection result of the organization A. e.g. "./dataset/Structure/DBLP-ACM/train1-dup-id.txt"
+- `--dup_path1`: the path of duplicate detection result of the organization A. e.g. "./dataset/Structure/DBLP-ACM/train1-dup-id.txt"
 
-- `--dup_path2: the path of duplicate detection result of the organization B. e.g. "./dataset/Structure/DBLP-ACM/train2-dup-id.txt"
+- `--dup_path2`: the path of duplicate detection result of the organization B. e.g. "./dataset/Structure/DBLP-ACM/train2-dup-id.txt"
 
-- `--train_wdup _path1: the path of original table of the organization A. e.g. "./dataset/Structure/DBLP-ACM/train1.txt"
+- `--train_wdup _path1`: the path of original table of the organization A. e.g. "./dataset/Structure/DBLP-ACM/train1.txt"
 
-- `--train_wdup _path2: the path of original table of the organization B. e.g. "./dataset/Structure/DBLP-ACM/train2.txt"
+- `--train_wdup _path2`: the path of original table of the organization B. e.g. "./dataset/Structure/DBLP-ACM/train2.txt"
 
-- `--match_path: the path of dedupilated matched set. e.g. "./dataset/Structure/DBLP-ACM/match-dedup.txt"
+- `--match_path`: the path of dedupilated matched set. e.g. "./dataset/Structure/DBLP-ACM/match-dedup.txt"
 
-- `--rounds: total collaborative fine-tuning round. e.g. 30
+- `--rounds`: total collaborative fine-tuning round. e.g. 30
 
-- `--dp_epsilon: the privacy budget of each owner to perform a single-round collaborative training. e.g. 0.2
+- `--dp_epsilon`: the privacy budget of each owner to perform a single-round collaborative training. e.g. 0.2
 
 
 ## Acknowledgementt
